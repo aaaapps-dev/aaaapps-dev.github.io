@@ -1,0 +1,16 @@
+{
+  "min_version": 0,
+  "latest_version": 19,
+  "allowed_stores": [],
+  "update_url": "",
+  "update_text": {
+    "en": "Please update the app to keep using the bar",
+    "ar": "يرجى تحديث التطبيق لمواصلة استخدام الشريط"
+  },
+  "message": {
+    "id": "",
+    "text": { "en": "", "ar": "" },
+    "url": ""
+  },
+  "founder_before": ""
+}
