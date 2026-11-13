@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Deep Launcher</title>
+<style>
+  body { margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center;
+         background: #0b1430; color: #eef2f8; font-family: system-ui, -apple-system, "Segoe UI", Tahoma, sans-serif; text-align: center; }
+  .box { padding: 28px 22px; max-width: 360px; }
+  h1 { font-size: 22px; margin: 0 0 8px; }
+  p { color: #aeb9cc; font-size: 15px; line-height: 1.6; margin: 0 0 22px; }
+  a.btn { display: block; padding: 14px; border-radius: 14px; text-decoration: none; font-weight: 600; margin-bottom: 12px; }
+  .main { background: #4f86c6; color: #fff; }
+  .alt { background: rgba(255,255,255,.08); color: #eef2f8; }
+</style>
+</head>
+<body>
+<div class="box">
+  <h1>Deep Launcher</h1>
+  <p>صاحبك شاركك شاشته. افتحها في Deep Launcher وتصير عندك بنفس الشكل والترتيب.<br>Your friend shared their home screen with you.</p>
+  <a class="btn main" id="open" href="#">فتح في Deep Launcher · Open</a>
+  <a class="btn alt" href="https://play.google.com/store/apps/details?id=com.deeplauncher.app">تحميل من Google Play · Get it</a>
+</div>
+<script>
+  var code = location.hash.slice(1);
+  var play = "https://play.google.com/store/apps/details?id=com.deeplauncher.app";
+  var intent = "intent://s?d=" + code + "#Intent;scheme=deeplauncher;package=com.deeplauncher.app;S.browser_fallback_url=" + encodeURIComponent(play) + ";end";
+  document.getElementById("open").href = /Android/i.test(navigator.userAgent) ? intent : play;
+  if (code && /Android/i.test(navigator.userAgent)) location.href = intent;
+</script>
+</body>
+</html>
