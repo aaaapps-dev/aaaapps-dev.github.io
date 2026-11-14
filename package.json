@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "update-apps": "node scripts/fetch-apps.mjs"
+    "update-apps": "node scripts/fetch-apps.mjs",
+    "build": "node scripts/build-site.mjs"
   },
   "dependencies": {
     "google-play-scraper": "^10.0.1"
