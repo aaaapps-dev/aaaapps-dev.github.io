@@ -1,0 +1,11 @@
+{
+  "name": "aaaapps-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-apps": "node scripts/fetch-apps.mjs"
+  },
+  "dependencies": {
+    "google-play-scraper": "^10.0.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "developer": "AAAAPPS",
+  "developerUrl": "https://play.google.com/store/apps/developer?id=AAAAPPS",
+  "updated": "2026-11-14T00:00:00Z",
+  "apps": [
+    { "id": "com.deepoffice.app", "title": "Deep Office: Viewer & Editor", "genre": "Productivity", "summary": "Open, read and edit PDF and office documents.", "icon": "", "featureGraphic": "", "url": "https://play.google.com/store/apps/details?id=com.deepoffice.app" },
+    { "id": "com.deepplan.app", "title": "DEEP Plan: 3D Floor Plan Maker", "genre": "Art & Design", "summary": "Draw floor plans and room layouts and view them in 3D.", "icon": "", "featureGraphic": "", "url": "https://play.google.com/store/apps/details?id=com.deepplan.app" },
+    { "id": "com.deepcrosshair.app", "title": "Deep Crosshair: Aim Overlay", "genre": "Tools", "summary": "A clean, adjustable crosshair overlay for shooter games.", "icon": "", "featureGraphic": "", "url": "https://play.google.com/store/apps/details?id=com.deepcrosshair.app" },
+    { "id": "com.extranotibar.app", "title": "Extra Notification Bar", "genre": "Tools", "summary": "An extra bar under the status bar with per-app notification icons.", "icon": "", "featureGraphic": "", "url": "https://play.google.com/store/apps/details?id=com.extranotibar.app" },
+    { "id": "com.aimpro.app", "title": "AimPro - Pool Game Tool", "genre": "Tools", "summary": "Aiming guide lines for pool games.", "icon": "", "featureGraphic": "", "url": "https://play.google.com/store/apps/details?id=com.aimpro.app" },
+    { "id": "com.deepiptv.app", "title": "DEEP IPTV", "genre": "Video Players & Editors", "summary": "A fast, simple player for your IPTV playlists.", "icon": "", "featureGraphic": "", "url": "https://play.google.com/store/apps/details?id=com.deepiptv.app" },
+    { "id": "com.machdm.app", "title": "Deep Video Downloader & saver", "genre": "Video Players & Editors", "summary": "Built-in browser that detects videos and saves them in one tap.", "icon": "", "featureGraphic": "", "url": "https://play.google.com/store/apps/details?id=com.machdm.app" },
+    { "id": "com.mediavar.app", "title": "Media VAR : Deleted Messages", "genre": "Communication", "summary": "Keeps a copy of your notifications so no message is missed.", "icon": "", "featureGraphic": "", "url": "https://play.google.com/store/apps/details?id=com.mediavar.app" }
+  ]
+}
