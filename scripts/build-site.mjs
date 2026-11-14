@@ -53,6 +53,8 @@ a{color:inherit}img{display:block;max-width:100%}svg{flex:none}
 header{position:sticky;top:0;z-index:20;background:rgba(238,246,245,.9);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
 .bar{display:flex;align-items:center;justify-content:space-between;gap:12px;height:76px}
 .logo{display:flex;align-items:center;gap:10px;text-decoration:none;font-weight:800;font-size:20px;letter-spacing:.08em}
+.brand{display:flex;flex-direction:column;line-height:1.15}
+.tag{font-size:12px;font-weight:600;letter-spacing:0;color:var(--soft);margin-top:3px}
 .logo i{width:38px;height:38px;border-radius:11px;background:var(--accent);display:grid;place-items:center}
 .right{display:flex;align-items:center;gap:10px}
 nav{display:flex;gap:6px;padding:6px;background:#fff;border-radius:999px;box-shadow:var(--shadow)}
@@ -74,6 +76,10 @@ nav a:hover{background:var(--ground)}nav a.on{background:var(--accent);color:#ff
 .hero h1{margin:0;font-size:60px;line-height:1.08;font-weight:800;letter-spacing:-.02em}
 .hero p{margin:22px 0 28px;font-size:19px;line-height:1.6;color:var(--muted);max-width:520px}
 .cta{display:flex;gap:18px;align-items:center;flex-wrap:wrap}
+.stat{display:inline-flex;align-items:center;gap:14px;margin-top:28px;padding:14px 22px;background:#fff;border-radius:18px;box-shadow:var(--shadow)}
+.stat b{font-size:34px;font-weight:800;color:var(--accent-dark);line-height:1;font-variant-numeric:tabular-nums}
+.stat span{display:flex;flex-direction:column;font-weight:700;font-size:15px;line-height:1.3}
+.stat small{font-weight:500;font-size:13px;color:var(--soft)}
 .icons{display:flex;gap:10px;flex-wrap:wrap;margin-top:32px}
 .icons a{width:48px;height:48px;border-radius:13px;overflow:hidden;box-shadow:0 4px 12px rgba(20,60,60,.12);transition:transform .15s}
 .icons a:hover{transform:translateY(-2px)}.icons img{width:100%;height:100%}
@@ -113,7 +119,9 @@ footer .logo{font-size:16px}footer .logo i{width:28px;height:28px;border-radius:
 [dir=rtl] .hero h1,[dir=rtl] section h2{letter-spacing:0}
 @media (max-width:1000px){.grid{grid-template-columns:repeat(2,1fr)}.hero h1{font-size:48px}}
 @media (max-width:720px){
-.wrap{padding:0 18px}.bar{height:68px}
+.tag{font-size:11px;margin-top:2px}.tag span{display:block}
+.stat{margin-top:22px;padding:12px 18px}.stat b{font-size:28px}
+.wrap{padding:0 18px}.bar{height:auto;min-height:68px;padding:8px 0}.logo{min-width:0}.right{flex:none}
 .logo{font-size:17px}.logo i{width:32px;height:32px;border-radius:9px}
 .menu-btn{display:flex}
 nav{display:none;position:absolute;top:64px;inset-inline-end:18px;flex-direction:column;min-width:170px;border-radius:18px;padding:8px}
@@ -135,6 +143,12 @@ function page(code) {
   const names = texts.map(t => shortName(t.title));
   const desc = L.desc.replace('{apps}', names.join(', '));
   const url = SITE + pathOf(code);
+  const total = apps.reduce((n, a) => n + (Number(a.installs) || 0), 0);
+  const numLocale = code === 'ar' ? 'ar-u-nu-latn' : code;
+  const fmt = n => new Intl.NumberFormat(numLocale).format(n);
+  const statHtml = total > 0
+    ? `<div class="stat"><b data-count="${total}" data-locale="${numLocale}">${fmt(total)}+</b><span>${esc(L.downloads)}<small>${esc(L.across.replace('{n}', apps.length))}</small></span></div>`
+    : '';
   const fontExtra = code === 'ar' ? '&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700' : '';
 
   const alternates = CODES.map(c => `<link rel="alternate" hreflang="${c}" href="${SITE}${pathOf(c)}">`).join('\n') +
@@ -216,7 +230,7 @@ ${texts[0] && texts[0].featureGraphic ? `<meta property="og:image" content="${es
 <body>
 <header>
 <div class="wrap bar">
-<a class="logo" href="${pathOf(code)}" aria-label="AAAAPPS"><i>${ICON.logo(22)}</i>AAAAPPS</a>
+<a class="logo" href="${pathOf(code)}" aria-label="AAAAPPS"><i>${ICON.logo(22)}</i><span class="brand">AAAAPPS<small class="tag">${L.tagline.split('|').map(x => `<span>${esc(x)}</span>`).join(' ')}</small></span></a>
 <div class="right">
 <nav id="nav">
 <a href="#apps" class="on">${esc(L.navApps)}</a>
@@ -237,6 +251,7 @@ ${texts[0] && texts[0].featureGraphic ? `<meta property="og:image" content="${es
 <a class="play" href="${DEV_URL}" target="_blank" rel="noopener">${ICON.play(20)}<span><small>${esc(L.getItOn)}</small><b>Google Play</b></span></a>
 <a class="link" href="#apps">${esc(L.seeAll)}</a>
 </div>
+${statHtml}
 <div class="icons">${heroIcons}</div>
 </div>
 <div class="stage" aria-hidden="true">${stage}</div>
@@ -278,6 +293,11 @@ document.getElementById('copyBtn').addEventListener('click',function(){
 var t=document.getElementById('toast'),done=function(){t.classList.add('show');setTimeout(function(){t.classList.remove('show');},1600);};
 if(navigator.clipboard){navigator.clipboard.writeText('${EMAIL}').then(done,done);}else{done();}
 });
+var c=document.querySelector('[data-count]');
+if(c&&!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches)){
+var to=+c.getAttribute('data-count'),f=new Intl.NumberFormat(c.getAttribute('data-locale')),t0=null,dur=1600;
+var step=function(t){if(!t0)t0=t;var p=Math.min((t-t0)/dur,1),e=1-Math.pow(1-p,3);c.textContent=f.format(Math.round(to*e))+'+';if(p<1)requestAnimationFrame(step);};
+requestAnimationFrame(step);}
 document.addEventListener('click',function(e){var d=document.querySelector('.lang');if(d&&d.open&&!d.contains(e.target))d.open=false;});
 })();
 </script>

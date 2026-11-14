@@ -39,6 +39,7 @@ async function main() {
     const prevI18n = prev.i18n || {};
     const i18n = {};
     let icon = prev.icon || item.icon || '';
+    let installs = prev.installs || 0;
     let url = `https://play.google.com/store/apps/details?id=${item.appId}`;
 
     for (const [code, L] of Object.entries(LANGS)) {
@@ -52,10 +53,11 @@ async function main() {
         featureGraphic: (d && d.headerImage) || p.featureGraphic || ''
       };
       if (code === 'en' && d && d.icon) icon = d.icon;
+      if (code === 'en' && d) installs = d.maxInstalls || d.minInstalls || installs;
     }
     const en = i18n.en;
     apps.push({
-      id: item.appId, url, icon,
+      id: item.appId, url, icon, installs,
       // English fields kept at top level for compatibility
       title: en.title, summary: en.summary, genre: en.genre, featureGraphic: en.featureGraphic,
       i18n
