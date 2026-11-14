@@ -41,6 +41,8 @@ a{color:inherit}img{display:block;max-width:100%}svg{flex:none}
 header{position:sticky;top:0;z-index:20;background:rgba(238,246,245,.9);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
 .bar{display:flex;align-items:center;justify-content:space-between;gap:12px;height:76px}
 .logo{display:flex;align-items:center;gap:10px;text-decoration:none;font-weight:800;font-size:20px;letter-spacing:.08em}
+.brand{display:flex;flex-direction:column;line-height:1.15}
+.tag{font-size:12px;font-weight:600;letter-spacing:0;color:var(--soft);margin-top:3px}
 .logo i{width:38px;height:38px;border-radius:11px;background:var(--accent);display:grid;place-items:center}
 .right{display:flex;align-items:center;gap:10px}
 nav{display:flex;gap:6px;padding:6px;background:#fff;border-radius:999px;box-shadow:var(--shadow)}
@@ -62,6 +64,10 @@ nav a:hover{background:var(--ground)}nav a.on{background:var(--accent);color:#ff
 .hero h1{margin:0;font-size:60px;line-height:1.08;font-weight:800;letter-spacing:-.02em}
 .hero p{margin:22px 0 28px;font-size:19px;line-height:1.6;color:var(--muted);max-width:520px}
 .cta{display:flex;gap:18px;align-items:center;flex-wrap:wrap}
+.stat{display:inline-flex;align-items:center;gap:14px;margin-top:28px;padding:14px 22px;background:#fff;border-radius:18px;box-shadow:var(--shadow)}
+.stat b{font-size:34px;font-weight:800;color:var(--accent-dark);line-height:1;font-variant-numeric:tabular-nums}
+.stat span{display:flex;flex-direction:column;font-weight:700;font-size:15px;line-height:1.3}
+.stat small{font-weight:500;font-size:13px;color:var(--soft)}
 .icons{display:flex;gap:10px;flex-wrap:wrap;margin-top:32px}
 .icons a{width:48px;height:48px;border-radius:13px;overflow:hidden;box-shadow:0 4px 12px rgba(20,60,60,.12);transition:transform .15s}
 .icons a:hover{transform:translateY(-2px)}.icons img{width:100%;height:100%}
@@ -101,7 +107,9 @@ footer .logo{font-size:16px}footer .logo i{width:28px;height:28px;border-radius:
 [dir=rtl] .hero h1,[dir=rtl] section h2{letter-spacing:0}
 @media (max-width:1000px){.grid{grid-template-columns:repeat(2,1fr)}.hero h1{font-size:48px}}
 @media (max-width:720px){
-.wrap{padding:0 18px}.bar{height:68px}
+.tag{font-size:11px;margin-top:2px}.tag span{display:block}
+.stat{margin-top:22px;padding:12px 18px}.stat b{font-size:28px}
+.wrap{padding:0 18px}.bar{height:auto;min-height:68px;padding:8px 0}.logo{min-width:0}.right{flex:none}
 .logo{font-size:17px}.logo i{width:32px;height:32px;border-radius:9px}
 .menu-btn{display:flex}
 nav{display:none;position:absolute;top:64px;inset-inline-end:18px;flex-direction:column;min-width:170px;border-radius:18px;padding:8px}
@@ -119,7 +127,7 @@ section h2{font-size:28px}.grid{grid-template-columns:1fr;gap:16px;margin-top:20
 <body>
 <header>
 <div class="wrap bar">
-<a class="logo" href="/fr/" aria-label="AAAAPPS"><i><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 19 12 5l5 14M9 14h6"/></svg></i>AAAAPPS</a>
+<a class="logo" href="/fr/" aria-label="AAAAPPS"><i><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 19 12 5l5 14M9 14h6"/></svg></i><span class="brand">AAAAPPS<small class="tag"><span>De nouvelles idées chaque jour.</span> <span>Des applis Android conçues avec professionnalisme.</span></small></span></a>
 <div class="right">
 <nav id="nav">
 <a href="#apps" class="on">Applis</a>
@@ -140,6 +148,7 @@ section h2{font-size:28px}.grid{grid-template-columns:1fr;gap:16px;margin-top:20
 <a class="play" href="https://play.google.com/store/apps/developer?id=AAAAPPS" target="_blank" rel="noopener"><svg width="20" height="20" viewBox="0 0 24 24" fill="#fff" aria-hidden="true"><path d="M7 4v16l13-8z"/></svg><span><small>DISPONIBLE SUR</small><b>Google Play</b></span></a>
 <a class="link" href="#apps">Voir toutes les applis →</a>
 </div>
+<div class="stat"><b data-count="146" data-locale="fr">146+</b><span>téléchargements<small>sur 8 applis</small></span></div>
 <div class="icons"><a href="https://play.google.com/store/apps/details?id=com.deepoffice.app" target="_blank" rel="noopener" title="Deep Office: Viewer &amp; Editor" aria-label="Deep Office: Viewer &amp; Editor"><img src="https://play-lh.googleusercontent.com/NaXZCHFekrojiJKImSo6zsfpHEOO4OWvDQp64NvxCzUR0x9nz1c_HlVyNBBQVbKHem5zSJIaokRkLJ0ib-CH" alt="Deep Office icon" width="64" height="64" loading="lazy"></a><a href="https://play.google.com/store/apps/details?id=com.deepplan.app" target="_blank" rel="noopener" title="DEEP Plan: 3D Floor Plan Maker" aria-label="DEEP Plan: 3D Floor Plan Maker"><img src="https://play-lh.googleusercontent.com/IGUYeZXvI7MbiGP8eUp1S_ntByHWOVw647ilxrfcbiS3EbdVX-i6FKjhD8AyHEXbJuXWZtRmHV5MNv2P0Wdu3A" alt="DEEP Plan icon" width="64" height="64" loading="lazy"></a><a href="https://play.google.com/store/apps/details?id=com.deepcrosshair.app" target="_blank" rel="noopener" title="Deep Crosshair : Réticule" aria-label="Deep Crosshair : Réticule"><img src="https://play-lh.googleusercontent.com/L4fFyyB1EBCylqkPvqkxzQelIeFELqfQbgdDRQKwenSd_YTKluZ_3WPD0iC-Eue3w3NZP4cQTsB_-KsS1FRgaA" alt="Deep Crosshair icon" width="64" height="64" loading="lazy"></a><a href="https://play.google.com/store/apps/details?id=com.extranotibar.app" target="_blank" rel="noopener" title="Extra Notification Bar" aria-label="Extra Notification Bar"><img src="https://play-lh.googleusercontent.com/QSUU8XFgk_SF5XSxQirhfRJ_-SCShFEzANB1vs6AzkIr7NrgVI5bGdeqwCA31XxulAYV7LOZIAQHWTF-hqG0fA" alt="Extra Notification Bar icon" width="64" height="64" loading="lazy"></a><a href="https://play.google.com/store/apps/details?id=com.aimpro.app" target="_blank" rel="noopener" title="AimPro - Pool Game Tool" aria-label="AimPro - Pool Game Tool"><img src="https://play-lh.googleusercontent.com/vcHBYr9qcBhEffVWTRBkKGA8vObuOUw_GmJgyD9t8INzu1EMm6azy9tp3YSAwvfdE-3YAJfeIfKcOsIvjMBR" alt="AimPro icon" width="64" height="64" loading="lazy"></a><a href="https://play.google.com/store/apps/details?id=com.deepiptv.app" target="_blank" rel="noopener" title="DEEP IPTV" aria-label="DEEP IPTV"><img src="https://play-lh.googleusercontent.com/zGUaOoCd9lDLSxgKqjNoe3tHAhhOZeLXL8yRXO-DRPY97JV-cl3fqTR5aLH-DF-kp2pBmFAL-f4ETa6rb8RivTc" alt="DEEP IPTV icon" width="64" height="64" loading="lazy"></a><a href="https://play.google.com/store/apps/details?id=com.machdm.app" target="_blank" rel="noopener" title="Deep Video Downloader &amp; saver" aria-label="Deep Video Downloader &amp; saver"><img src="https://play-lh.googleusercontent.com/ouUvMdmNm8ZBaf-JpQti9u9EvWIhX5pXuVXKso5mntUSo6FmRP-Y2fzhUzQC3Q1_M2UFmD_Gz410l-dMvYLr" alt="Deep Video Downloader &amp; saver icon" width="64" height="64" loading="lazy"></a><a href="https://play.google.com/store/apps/details?id=com.mediavar.app" target="_blank" rel="noopener" title="Media VAR : Deleted Messages" aria-label="Media VAR : Deleted Messages"><img src="https://play-lh.googleusercontent.com/n7zFsJeyBntXPgOVxHKI7YIXbvnK1tN6at1R2761vyThA-3__AoV2WiHK35MASZpTKJSQhkX46CAAj_DGt4mC8U" alt="Media VAR icon" width="64" height="64" loading="lazy"></a></div>
 </div>
 <div class="stage" aria-hidden="true"><div class="fg"><img src="https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A" alt="Deep Office" width="1024" height="500"></div><div class="fg"><img src="https://play-lh.googleusercontent.com/zaMR9B0zE3VHM4v4965J5bfVseKjyGoVyrhdaW8xZSlo2LGh2NqTVSvDUeOgOS2-eFkoLDHIgjgPb545EEZN" alt="DEEP Plan" width="1024" height="500"></div><div class="fg"><img src="https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA" alt="Deep Crosshair" width="1024" height="500"></div></div>
@@ -244,6 +253,11 @@ document.getElementById('copyBtn').addEventListener('click',function(){
 var t=document.getElementById('toast'),done=function(){t.classList.add('show');setTimeout(function(){t.classList.remove('show');},1600);};
 if(navigator.clipboard){navigator.clipboard.writeText('aaaappsupport@gmail.com').then(done,done);}else{done();}
 });
+var c=document.querySelector('[data-count]');
+if(c&&!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches)){
+var to=+c.getAttribute('data-count'),f=new Intl.NumberFormat(c.getAttribute('data-locale')),t0=null,dur=1600;
+var step=function(t){if(!t0)t0=t;var p=Math.min((t-t0)/dur,1),e=1-Math.pow(1-p,3);c.textContent=f.format(Math.round(to*e))+'+';if(p<1)requestAnimationFrame(step);};
+requestAnimationFrame(step);}
 document.addEventListener('click',function(e){var d=document.querySelector('.lang');if(d&&d.open&&!d.contains(e.target))d.open=false;});
 })();
 </script>
