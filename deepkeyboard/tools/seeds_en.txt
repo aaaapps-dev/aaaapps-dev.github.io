@@ -1,0 +1,104 @@
+# Deep Keyboard: common English phrases (one per line). Every word pair here comes first in predictions.
+Hi there
+Hi how are you
+Hello how are you
+Hey how are you
+How are you doing
+How are you today
+I am fine thank you
+I'm fine thanks
+I'm good thanks
+Good morning
+Good afternoon
+Good evening
+Good night
+Thank you so much
+Thank you very much
+Thanks so much
+Thanks for your help
+Thanks for letting me know
+You're welcome
+No problem
+No worries
+Of course
+See you soon
+See you later
+See you tomorrow
+Talk to you later
+Have a nice day
+Have a great day
+Have a good weekend
+Have a safe trip
+Happy birthday
+Happy new year
+Merry Christmas
+Congratulations on your new job
+I love you
+I miss you
+I'm on my way
+I'll be there in a few minutes
+I'll call you later
+I will let you know
+Let me know
+Let me know if you need anything
+Call me when you get home
+Call me when you can
+Text me when you get there
+Can you call me
+Can you send me the location
+Can you help me
+Could you please
+Please let me know
+Sorry for the late reply
+Sorry I missed your call
+Sorry for the inconvenience
+I don't know
+I don't think so
+I think so
+I'm not sure
+What time is it
+What are you doing
+What do you think
+Where are you
+When are you coming
+Are you free tomorrow
+Are you coming
+Are you sure
+Sounds good to me
+That sounds great
+That's great
+That's a good idea
+Looking forward to it
+Looking forward to hearing from you
+Best regards
+Kind regards
+Thank you for your time
+Please find attached
+I hope you are doing well
+I hope this helps
+Just wanted to check in
+On my way home
+At the office
+At work
+In a meeting
+Be right back
+Take care
+Get well soon
+God bless you
+Good luck
+Well done
+Nice to meet you
+How was your day
+How was your weekend
+What's up
+Let's go
+Let's meet tomorrow
+Let's do it
+Don't worry about it
+Don't forget
+Never mind
+All good
+Okay thanks
+Ok see you
+Yes please
+No thank you
