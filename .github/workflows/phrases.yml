@@ -22,19 +22,19 @@ jobs:
           java-version: "21"
       - name: Build dictionaries with next-word predictions
         run: |
-          mkdir -p dicts
+          mkdir -p deepkeyboard/dicts
           for pair in ${{ github.event.inputs.languages }}; do
             lang=${pair%%:*}
             code=${pair##*:}
             echo "=== $lang ($code) ==="
-            python3 tools/build_phrases.py "$lang" "$code" "/tmp/main_$lang.combined"
-            java -jar tools/dicttool.jar makedict -s "/tmp/main_$lang.combined" -d "dicts/main_$lang.dict"
-            ls -l "dicts/main_$lang.dict"
+            python3 deepkeyboard/tools/build_phrases.py "$lang" "$code" "/tmp/main_$lang.combined"
+            java -jar deepkeyboard/tools/dicttool.jar makedict -s "/tmp/main_$lang.combined" -d "deepkeyboard/dicts/main_$lang.dict"
+            ls -l "deepkeyboard/dicts/main_$lang.dict"
           done
       - name: Save to the repository
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add dicts
+          git add deepkeyboard/dicts
           git commit -m "Phrase dictionaries: ${{ github.event.inputs.languages }}" || echo "nothing changed"
           git push
