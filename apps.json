@@ -1,7 +1,7 @@
 {
   "developer": "AAAAPPS",
   "developerUrl": "https://play.google.com/store/apps/developer?id=AAAAPPS",
-  "updated": "2026-11-16T04:52:21.537Z",
+  "updated": "2026-11-16T23:02:45.963Z",
   "apps": [
     {
       "id": "com.deepoffice.app",
@@ -576,6 +576,78 @@
           "summary": "समर्थित सूचनाओं और मीडिया को स्थानीय रूप से सुरक्षित रखें ताकि उनकी समीक्षा और पहुंच आसान हो सके।",
           "genre": "टूल",
           "featureGraphic": "https://play-lh.googleusercontent.com/7ybESwmMOQi7HlRFaAUlUfKr6r8JY9MzJUrdLdhCTmY48bPxiuUZ9GOnrpXXtLIHOou8UfXY9sO_LqiOn8dRNbc"
+        }
+      }
+    },
+    {
+      "id": "com.deepkeyboard.app",
+      "url": "https://play.google.com/store/apps/details?id=com.deepkeyboard.app",
+      "icon": "https://play-lh.googleusercontent.com/jE6bwHwllbcH8Tu3dYLbtTnxwv5rAOiYt85zODt9gGrsrgghWmgCLxogaAu3EXvA6bcgzHht6OZbELBhZt9G",
+      "installs": 0,
+      "title": "Deep Keyboard - Custom Themes",
+      "summary": "Custom themes, voice typing, text shortcuts, emoji search &amp; Drive backup",
+      "genre": "Personalization",
+      "featureGraphic": "https://play-lh.googleusercontent.com/DRXsw59-JeNg7oNsX0R6jMrWrI42gNQV_hWgsO2rVPmCUuD63iWjiFthhjpZr20dmUycBfSI7Wv_fXffLC3krWA",
+      "i18n": {
+        "en": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Custom themes, voice typing, text shortcuts, emoji search &amp; Drive backup",
+          "genre": "Personalization",
+          "featureGraphic": "https://play-lh.googleusercontent.com/DRXsw59-JeNg7oNsX0R6jMrWrI42gNQV_hWgsO2rVPmCUuD63iWjiFthhjpZr20dmUycBfSI7Wv_fXffLC3krWA"
+        },
+        "ar": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "سمات مخصصة، كتابة صوتية، اختصارات نصية، بحث عن الرموز التعبيرية، ونسخ احتياطي لمحرك الأقراص",
+          "genre": "تخصيص",
+          "featureGraphic": "https://play-lh.googleusercontent.com/DRXsw59-JeNg7oNsX0R6jMrWrI42gNQV_hWgsO2rVPmCUuD63iWjiFthhjpZr20dmUycBfSI7Wv_fXffLC3krWA"
+        },
+        "es": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Temas personalizados, dictado por voz, accesos directos de texto, búsqueda de emojis y copia de seguridad de Drive.",
+          "genre": "Personalización",
+          "featureGraphic": "https://play-lh.googleusercontent.com/DRXsw59-JeNg7oNsX0R6jMrWrI42gNQV_hWgsO2rVPmCUuD63iWjiFthhjpZr20dmUycBfSI7Wv_fXffLC3krWA"
+        },
+        "pt": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Temas personalizados, digitação por voz, atalhos de texto, busca por emojis e backup do Drive.",
+          "genre": "Personalização",
+          "featureGraphic": "https://play-lh.googleusercontent.com/DRXsw59-JeNg7oNsX0R6jMrWrI42gNQV_hWgsO2rVPmCUuD63iWjiFthhjpZr20dmUycBfSI7Wv_fXffLC3krWA"
+        },
+        "fr": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Thèmes personnalisés, saisie vocale, raccourcis texte, recherche d'émojis et sauvegarde Drive",
+          "genre": "Personnalisation",
+          "featureGraphic": "https://play-lh.googleusercontent.com/DRXsw59-JeNg7oNsX0R6jMrWrI42gNQV_hWgsO2rVPmCUuD63iWjiFthhjpZr20dmUycBfSI7Wv_fXffLC3krWA"
+        },
+        "de": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Benutzerdefinierte Designs, Spracheingabe, Textkürzel, Emoji-Suche und Drive-Backup",
+          "genre": "Personalisierung",
+          "featureGraphic": "https://play-lh.googleusercontent.com/DRXsw59-JeNg7oNsX0R6jMrWrI42gNQV_hWgsO2rVPmCUuD63iWjiFthhjpZr20dmUycBfSI7Wv_fXffLC3krWA"
+        },
+        "tr": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Özel temalar, sesli yazma, metin kısayolları, emoji arama ve Drive yedekleme",
+          "genre": "Kişiselleştirme",
+          "featureGraphic": "https://play-lh.googleusercontent.com/DRXsw59-JeNg7oNsX0R6jMrWrI42gNQV_hWgsO2rVPmCUuD63iWjiFthhjpZr20dmUycBfSI7Wv_fXffLC3krWA"
+        },
+        "ru": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Пользовательские темы, голосовой ввод, текстовые сочетания клавиш, поиск эмодзи и резервное копирование в Google Диск.",
+          "genre": "Персонализация",
+          "featureGraphic": "https://play-lh.googleusercontent.com/DRXsw59-JeNg7oNsX0R6jMrWrI42gNQV_hWgsO2rVPmCUuD63iWjiFthhjpZr20dmUycBfSI7Wv_fXffLC3krWA"
+        },
+        "id": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Tema kustom, pengetikan suara, pintasan teks, pencarian emoji &amp; pencadangan Drive",
+          "genre": "Personalisasi",
+          "featureGraphic": "https://play-lh.googleusercontent.com/DRXsw59-JeNg7oNsX0R6jMrWrI42gNQV_hWgsO2rVPmCUuD63iWjiFthhjpZr20dmUycBfSI7Wv_fXffLC3krWA"
+        },
+        "hi": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "कस्टम थीम, वॉइस टाइपिंग, टेक्स्ट शॉर्टकट, इमोजी सर्च और ड्राइव बैकअप",
+          "genre": "मनमुताबिक बनाना",
+          "featureGraphic": "https://play-lh.googleusercontent.com/DRXsw59-JeNg7oNsX0R6jMrWrI42gNQV_hWgsO2rVPmCUuD63iWjiFthhjpZr20dmUycBfSI7Wv_fXffLC3krWA"
         }
       }
     }
