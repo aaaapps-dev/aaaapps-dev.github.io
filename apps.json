@@ -1,13 +1,13 @@
 {
   "developer": "AAAAPPS",
   "developerUrl": "https://play.google.com/store/apps/developer?id=AAAAPPS",
-  "updated": "2026-11-16T23:02:45.963Z",
+  "updated": "2026-11-17T17:55:07.850Z",
   "apps": [
     {
       "id": "com.deepoffice.app",
       "url": "https://play.google.com/store/apps/details?id=com.deepoffice.app",
       "icon": "https://play-lh.googleusercontent.com/NaXZCHFekrojiJKImSo6zsfpHEOO4OWvDQp64NvxCzUR0x9nz1c_HlVyNBBQVbKHem5zSJIaokRkLJ0ib-CH",
-      "installs": 3,
+      "installs": 4,
       "title": "Deep Office: Viewer & Editor",
       "summary": "All-in-one office: edit Word, Excel, PowerPoint &amp; PDF. Scan, sign, OCR. No ads!",
       "genre": "Productivity",
@@ -79,7 +79,7 @@
       "id": "com.deepplan.app",
       "url": "https://play.google.com/store/apps/details?id=com.deepplan.app",
       "icon": "https://play-lh.googleusercontent.com/IGUYeZXvI7MbiGP8eUp1S_ntByHWOVw647ilxrfcbiS3EbdVX-i6FKjhD8AyHEXbJuXWZtRmHV5MNv2P0Wdu3A",
-      "installs": 7,
+      "installs": 13,
       "title": "DEEP Plan: 3D Floor Plan Maker",
       "summary": "Design your home in 2D and 3D: floor plans, furniture and a smart plan check",
       "genre": "House & Home",
@@ -151,7 +151,7 @@
       "id": "com.deepcrosshair.app",
       "url": "https://play.google.com/store/apps/details?id=com.deepcrosshair.app",
       "icon": "https://play-lh.googleusercontent.com/L4fFyyB1EBCylqkPvqkxzQelIeFELqfQbgdDRQKwenSd_YTKluZ_3WPD0iC-Eue3w3NZP4cQTsB_-KsS1FRgaA",
-      "installs": 2,
+      "installs": 17,
       "title": "Deep Crosshair: Aim Overlay",
       "summary": "Custom crosshair overlay for your shooter games - clear, light &amp; easy to use.",
       "genre": "Tools",
@@ -223,7 +223,7 @@
       "id": "com.extranotibar.app",
       "url": "https://play.google.com/store/apps/details?id=com.extranotibar.app",
       "icon": "https://play-lh.googleusercontent.com/QSUU8XFgk_SF5XSxQirhfRJ_-SCShFEzANB1vs6AzkIr7NrgVI5bGdeqwCA31XxulAYV7LOZIAQHWTF-hqG0fA",
-      "installs": 2,
+      "installs": 5,
       "title": "Extra Notification Bar",
       "summary": "All your notifications in a neat bar under the status bar. Tap, read &amp; reply.",
       "genre": "Personalization",
@@ -367,7 +367,7 @@
       "id": "com.machdm.app",
       "url": "https://play.google.com/store/apps/details?id=com.machdm.app",
       "icon": "https://play-lh.googleusercontent.com/ouUvMdmNm8ZBaf-JpQti9u9EvWIhX5pXuVXKso5mntUSo6FmRP-Y2fzhUzQC3Q1_M2UFmD_Gz410l-dMvYLr",
-      "installs": 119,
+      "installs": 120,
       "title": "Deep Video Downloader & saver",
       "summary": "Find and download videos from any website in all resolutions — super fast.",
       "genre": "Tools",
@@ -432,78 +432,6 @@
           "summary": "किसी भी वेबसाइट से सभी रेज़ोल्यूशन में वीडियो ढूंढें और डाउनलोड करें — बेहद तेज़ गति से।",
           "genre": "टूल",
           "featureGraphic": "https://play-lh.googleusercontent.com/XqIHrIMNDlEtItA-U5bZofImDzs9Bqcm_y-QIuWxIDnWueOUgbC7CQmCIWQ72pMr5jzhvB0yxz5TXvF9L_Jr26Y"
-        }
-      }
-    },
-    {
-      "id": "com.aimpro.app",
-      "url": "https://play.google.com/store/apps/details?id=com.aimpro.app",
-      "icon": "https://play-lh.googleusercontent.com/vcHBYr9qcBhEffVWTRBkKGA8vObuOUw_GmJgyD9t8INzu1EMm6azy9tp3YSAwvfdE-3YAJfeIfKcOsIvjMBR",
-      "installs": 14,
-      "title": "AimPro - Pool Game Tool",
-      "summary": "Pool aiming assistant and guidance for trainings",
-      "genre": "Role Playing",
-      "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ",
-      "i18n": {
-        "en": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Pool aiming assistant and guidance for trainings",
-          "genre": "Role Playing",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "ar": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "مساعد في التصويب في البلياردو وتوجيه التدريبات",
-          "genre": "تقمص الأدوار",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "es": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Asistente de puntería y guía para entrenamientos en piscina",
-          "genre": "Juegos de rol",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "pt": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Assistente de mira e orientação para treinamentos de sinuca",
-          "genre": "RPG",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "fr": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Assistance et conseils pour l'entraînement au billard",
-          "genre": "Jeux de rôles",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "de": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Zielhilfe und Trainingsanleitung für den Pool",
-          "genre": "Rollenspiele",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "tr": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Havuzda hedef belirleme asistanlığı ve eğitimler için rehberlik",
-          "genre": "Rol yapma",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "ru": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Помощник по прицеливанию в бассейне и руководство на тренировках.",
-          "genre": "Ролевые",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "id": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Asisten bidik dan panduan latihan di kolam renang.",
-          "genre": "RPG",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "hi": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "पूल में लक्ष्य साधने में सहायक और प्रशिक्षण के लिए मार्गदर्शन",
-          "genre": "रोल प्ले",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
         }
       }
     },
@@ -580,6 +508,78 @@
       }
     },
     {
+      "id": "com.aimpro.app",
+      "url": "https://play.google.com/store/apps/details?id=com.aimpro.app",
+      "icon": "https://play-lh.googleusercontent.com/vcHBYr9qcBhEffVWTRBkKGA8vObuOUw_GmJgyD9t8INzu1EMm6azy9tp3YSAwvfdE-3YAJfeIfKcOsIvjMBR",
+      "installs": 40,
+      "title": "AimPro - Pool Game Tool",
+      "summary": "Pool aiming assistant and guidance for trainings",
+      "genre": "Role Playing",
+      "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ",
+      "i18n": {
+        "en": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Pool aiming assistant and guidance for trainings",
+          "genre": "Role Playing",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "ar": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "مساعد في التصويب في البلياردو وتوجيه التدريبات",
+          "genre": "تقمص الأدوار",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "es": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Asistente de puntería y guía para entrenamientos en piscina",
+          "genre": "Juegos de rol",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "pt": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Assistente de mira e orientação para treinamentos de sinuca",
+          "genre": "RPG",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "fr": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Assistance et conseils pour l'entraînement au billard",
+          "genre": "Jeux de rôles",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "de": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Zielhilfe und Trainingsanleitung für den Pool",
+          "genre": "Rollenspiele",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "tr": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Havuzda hedef belirleme asistanlığı ve eğitimler için rehberlik",
+          "genre": "Rol yapma",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "ru": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Помощник по прицеливанию в бассейне и руководство на тренировках.",
+          "genre": "Ролевые",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "id": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Asisten bidik dan panduan latihan di kolam renang.",
+          "genre": "RPG",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "hi": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "पूल में लक्ष्य साधने में सहायक और प्रशिक्षण के लिए मार्गदर्शन",
+          "genre": "रोल प्ले",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        }
+      }
+    },
+    {
       "id": "com.deepkeyboard.app",
       "url": "https://play.google.com/store/apps/details?id=com.deepkeyboard.app",
       "icon": "https://play-lh.googleusercontent.com/jE6bwHwllbcH8Tu3dYLbtTnxwv5rAOiYt85zODt9gGrsrgghWmgCLxogaAu3EXvA6bcgzHht6OZbELBhZt9G",
@@ -648,6 +648,78 @@
           "summary": "कस्टम थीम, वॉइस टाइपिंग, टेक्स्ट शॉर्टकट, इमोजी सर्च और ड्राइव बैकअप",
           "genre": "मनमुताबिक बनाना",
           "featureGraphic": "https://play-lh.googleusercontent.com/DRXsw59-JeNg7oNsX0R6jMrWrI42gNQV_hWgsO2rVPmCUuD63iWjiFthhjpZr20dmUycBfSI7Wv_fXffLC3krWA"
+        }
+      }
+    },
+    {
+      "id": "com.deeplauncher.app",
+      "url": "https://play.google.com/store/apps/details?id=com.deeplauncher.app",
+      "icon": "https://play-lh.googleusercontent.com/FOteJDZOZe4QCbJwgjHdV8WWp1MnR17o7TjHC79dpmyuXd886W-IEDwIbj9x96GirlsEQ_SRyqmRMWvRy_V4dw",
+      "installs": 0,
+      "title": "Deep Launcher: Light & Fast",
+      "summary": "Full customization, smooth speed and a light launcher that saves battery",
+      "genre": "Personalization",
+      "featureGraphic": "https://play-lh.googleusercontent.com/P-EvSpph8gy1Yq8E0jHk5TbP77LvIXoYvK1mujOW05yAU-TkcIZof76s_vMJHDiMqa1XfJeZYeJ_bKLRC0UE",
+      "i18n": {
+        "en": {
+          "title": "Deep Launcher: Light & Fast",
+          "summary": "Full customization, smooth speed and a light launcher that saves battery",
+          "genre": "Personalization",
+          "featureGraphic": "https://play-lh.googleusercontent.com/P-EvSpph8gy1Yq8E0jHk5TbP77LvIXoYvK1mujOW05yAU-TkcIZof76s_vMJHDiMqa1XfJeZYeJ_bKLRC0UE"
+        },
+        "ar": {
+          "title": "Deep Launcher: Light & Fast",
+          "summary": "إمكانية تخصيص كاملة، وسرعة سلسة، وقاذفة خفيفة الوزن توفر البطارية",
+          "genre": "تخصيص",
+          "featureGraphic": "https://play-lh.googleusercontent.com/P-EvSpph8gy1Yq8E0jHk5TbP77LvIXoYvK1mujOW05yAU-TkcIZof76s_vMJHDiMqa1XfJeZYeJ_bKLRC0UE"
+        },
+        "es": {
+          "title": "Deep Launcher: Light & Fast",
+          "summary": "Personalización completa, velocidad fluida y un lanzador ligero que ahorra batería.",
+          "genre": "Personalización",
+          "featureGraphic": "https://play-lh.googleusercontent.com/P-EvSpph8gy1Yq8E0jHk5TbP77LvIXoYvK1mujOW05yAU-TkcIZof76s_vMJHDiMqa1XfJeZYeJ_bKLRC0UE"
+        },
+        "pt": {
+          "title": "Deep Launcher: Light & Fast",
+          "summary": "Totalmente personalizável, velocidade suave e um lançador leve que economiza bateria.",
+          "genre": "Personalização",
+          "featureGraphic": "https://play-lh.googleusercontent.com/P-EvSpph8gy1Yq8E0jHk5TbP77LvIXoYvK1mujOW05yAU-TkcIZof76s_vMJHDiMqa1XfJeZYeJ_bKLRC0UE"
+        },
+        "fr": {
+          "title": "Deep Launcher: Light & Fast",
+          "summary": "Personnalisation complète, vitesse fluide et lanceur léger préservant la batterie",
+          "genre": "Personnalisation",
+          "featureGraphic": "https://play-lh.googleusercontent.com/P-EvSpph8gy1Yq8E0jHk5TbP77LvIXoYvK1mujOW05yAU-TkcIZof76s_vMJHDiMqa1XfJeZYeJ_bKLRC0UE"
+        },
+        "de": {
+          "title": "Deep Launcher: Light & Fast",
+          "summary": "Vollständige Anpassungsmöglichkeiten, flüssige Geschwindigkeit und ein leichter Launcher, der Batterie spart.",
+          "genre": "Personalisierung",
+          "featureGraphic": "https://play-lh.googleusercontent.com/P-EvSpph8gy1Yq8E0jHk5TbP77LvIXoYvK1mujOW05yAU-TkcIZof76s_vMJHDiMqa1XfJeZYeJ_bKLRC0UE"
+        },
+        "tr": {
+          "title": "Deep Launcher: Light & Fast",
+          "summary": "Tamamen özelleştirilebilir, akıcı hız ve pil tasarrufu sağlayan hafif bir başlatıcı.",
+          "genre": "Kişiselleştirme",
+          "featureGraphic": "https://play-lh.googleusercontent.com/P-EvSpph8gy1Yq8E0jHk5TbP77LvIXoYvK1mujOW05yAU-TkcIZof76s_vMJHDiMqa1XfJeZYeJ_bKLRC0UE"
+        },
+        "ru": {
+          "title": "Deep Launcher: Light & Fast",
+          "summary": "Полная настройка, плавная скорость и лёгкий лаунчер, экономящий заряд батареи.",
+          "genre": "Персонализация",
+          "featureGraphic": "https://play-lh.googleusercontent.com/P-EvSpph8gy1Yq8E0jHk5TbP77LvIXoYvK1mujOW05yAU-TkcIZof76s_vMJHDiMqa1XfJeZYeJ_bKLRC0UE"
+        },
+        "id": {
+          "title": "Deep Launcher: Light & Fast",
+          "summary": "Kustomisasi penuh, kecepatan lancar, dan peluncur ringan yang menghemat baterai.",
+          "genre": "Personalisasi",
+          "featureGraphic": "https://play-lh.googleusercontent.com/P-EvSpph8gy1Yq8E0jHk5TbP77LvIXoYvK1mujOW05yAU-TkcIZof76s_vMJHDiMqa1XfJeZYeJ_bKLRC0UE"
+        },
+        "hi": {
+          "title": "Deep Launcher: Light & Fast",
+          "summary": "पूर्ण अनुकूलन, सहज गति और बैटरी बचाने वाला हल्का लॉन्चर",
+          "genre": "मनमुताबिक बनाना",
+          "featureGraphic": "https://play-lh.googleusercontent.com/P-EvSpph8gy1Yq8E0jHk5TbP77LvIXoYvK1mujOW05yAU-TkcIZof76s_vMJHDiMqa1XfJeZYeJ_bKLRC0UE"
         }
       }
     }
