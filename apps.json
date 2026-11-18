@@ -1,13 +1,13 @@
 {
   "developer": "AAAAPPS",
   "developerUrl": "https://play.google.com/store/apps/developer?id=AAAAPPS",
-  "updated": "2026-11-18T04:13:37.595Z",
+  "updated": "2026-11-18T14:02:00.217Z",
   "apps": [
     {
       "id": "com.deepoffice.app",
       "url": "https://play.google.com/store/apps/details?id=com.deepoffice.app",
       "icon": "https://play-lh.googleusercontent.com/NaXZCHFekrojiJKImSo6zsfpHEOO4OWvDQp64NvxCzUR0x9nz1c_HlVyNBBQVbKHem5zSJIaokRkLJ0ib-CH",
-      "installs": 4,
+      "installs": 5,
       "title": "Deep Office: Viewer & Editor",
       "summary": "All-in-one office: edit Word, Excel, PowerPoint &amp; PDF. Scan, sign, OCR. No ads!",
       "genre": "Productivity",
@@ -79,7 +79,7 @@
       "id": "com.deepplan.app",
       "url": "https://play.google.com/store/apps/details?id=com.deepplan.app",
       "icon": "https://play-lh.googleusercontent.com/IGUYeZXvI7MbiGP8eUp1S_ntByHWOVw647ilxrfcbiS3EbdVX-i6FKjhD8AyHEXbJuXWZtRmHV5MNv2P0Wdu3A",
-      "installs": 13,
+      "installs": 16,
       "title": "DEEP Plan: 3D Floor Plan Maker",
       "summary": "Design your home in 2D and 3D: floor plans, furniture and a smart plan check",
       "genre": "House & Home",
@@ -151,7 +151,7 @@
       "id": "com.deepcrosshair.app",
       "url": "https://play.google.com/store/apps/details?id=com.deepcrosshair.app",
       "icon": "https://play-lh.googleusercontent.com/L4fFyyB1EBCylqkPvqkxzQelIeFELqfQbgdDRQKwenSd_YTKluZ_3WPD0iC-Eue3w3NZP4cQTsB_-KsS1FRgaA",
-      "installs": 17,
+      "installs": 22,
       "title": "Deep Crosshair: Aim Overlay",
       "summary": "Custom crosshair overlay for your shooter games - clear, light &amp; easy to use.",
       "genre": "Tools",
@@ -223,7 +223,7 @@
       "id": "com.extranotibar.app",
       "url": "https://play.google.com/store/apps/details?id=com.extranotibar.app",
       "icon": "https://play-lh.googleusercontent.com/QSUU8XFgk_SF5XSxQirhfRJ_-SCShFEzANB1vs6AzkIr7NrgVI5bGdeqwCA31XxulAYV7LOZIAQHWTF-hqG0fA",
-      "installs": 5,
+      "installs": 6,
       "title": "Extra Notification Bar",
       "summary": "All your notifications in a neat bar under the status bar. Tap, read &amp; reply.",
       "genre": "Personalization",
@@ -367,7 +367,7 @@
       "id": "com.machdm.app",
       "url": "https://play.google.com/store/apps/details?id=com.machdm.app",
       "icon": "https://play-lh.googleusercontent.com/ouUvMdmNm8ZBaf-JpQti9u9EvWIhX5pXuVXKso5mntUSo6FmRP-Y2fzhUzQC3Q1_M2UFmD_Gz410l-dMvYLr",
-      "installs": 120,
+      "installs": 121,
       "title": "Deep Video Downloader & saver",
       "summary": "Find and download videos from any website in all resolutions — super fast.",
       "genre": "Tools",
@@ -432,6 +432,78 @@
           "summary": "किसी भी वेबसाइट से सभी रेज़ोल्यूशन में वीडियो ढूंढें और डाउनलोड करें — बेहद तेज़ गति से।",
           "genre": "टूल",
           "featureGraphic": "https://play-lh.googleusercontent.com/XqIHrIMNDlEtItA-U5bZofImDzs9Bqcm_y-QIuWxIDnWueOUgbC7CQmCIWQ72pMr5jzhvB0yxz5TXvF9L_Jr26Y"
+        }
+      }
+    },
+    {
+      "id": "com.aimpro.app",
+      "url": "https://play.google.com/store/apps/details?id=com.aimpro.app",
+      "icon": "https://play-lh.googleusercontent.com/vcHBYr9qcBhEffVWTRBkKGA8vObuOUw_GmJgyD9t8INzu1EMm6azy9tp3YSAwvfdE-3YAJfeIfKcOsIvjMBR",
+      "installs": 57,
+      "title": "AimPro - Pool Game Tool",
+      "summary": "Pool aiming assistant and guidance for trainings",
+      "genre": "Role Playing",
+      "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ",
+      "i18n": {
+        "en": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Pool aiming assistant and guidance for trainings",
+          "genre": "Role Playing",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "ar": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "مساعد في التصويب في البلياردو وتوجيه التدريبات",
+          "genre": "تقمص الأدوار",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "es": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Asistente de puntería y guía para entrenamientos en piscina",
+          "genre": "Juegos de rol",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "pt": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Assistente de mira e orientação para treinamentos de sinuca",
+          "genre": "RPG",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "fr": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Assistance et conseils pour l'entraînement au billard",
+          "genre": "Jeux de rôles",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "de": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Zielhilfe und Trainingsanleitung für den Pool",
+          "genre": "Rollenspiele",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "tr": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Havuzda hedef belirleme asistanlığı ve eğitimler için rehberlik",
+          "genre": "Rol yapma",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "ru": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Помощник по прицеливанию в бассейне и руководство на тренировках.",
+          "genre": "Ролевые",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "id": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Asisten bidik dan panduan latihan di kolam renang.",
+          "genre": "RPG",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "hi": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "पूल में लक्ष्य साधने में सहायक और प्रशिक्षण के लिए मार्गदर्शन",
+          "genre": "रोल प्ले",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
         }
       }
     },
@@ -504,78 +576,6 @@
           "summary": "समर्थित सूचनाओं और मीडिया को स्थानीय रूप से सुरक्षित रखें ताकि उनकी समीक्षा और पहुंच आसान हो सके।",
           "genre": "टूल",
           "featureGraphic": "https://play-lh.googleusercontent.com/7ybESwmMOQi7HlRFaAUlUfKr6r8JY9MzJUrdLdhCTmY48bPxiuUZ9GOnrpXXtLIHOou8UfXY9sO_LqiOn8dRNbc"
-        }
-      }
-    },
-    {
-      "id": "com.aimpro.app",
-      "url": "https://play.google.com/store/apps/details?id=com.aimpro.app",
-      "icon": "https://play-lh.googleusercontent.com/vcHBYr9qcBhEffVWTRBkKGA8vObuOUw_GmJgyD9t8INzu1EMm6azy9tp3YSAwvfdE-3YAJfeIfKcOsIvjMBR",
-      "installs": 40,
-      "title": "AimPro - Pool Game Tool",
-      "summary": "Pool aiming assistant and guidance for trainings",
-      "genre": "Role Playing",
-      "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ",
-      "i18n": {
-        "en": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Pool aiming assistant and guidance for trainings",
-          "genre": "Role Playing",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "ar": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "مساعد في التصويب في البلياردو وتوجيه التدريبات",
-          "genre": "تقمص الأدوار",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "es": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Asistente de puntería y guía para entrenamientos en piscina",
-          "genre": "Juegos de rol",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "pt": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Assistente de mira e orientação para treinamentos de sinuca",
-          "genre": "RPG",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "fr": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Assistance et conseils pour l'entraînement au billard",
-          "genre": "Jeux de rôles",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "de": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Zielhilfe und Trainingsanleitung für den Pool",
-          "genre": "Rollenspiele",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "tr": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Havuzda hedef belirleme asistanlığı ve eğitimler için rehberlik",
-          "genre": "Rol yapma",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "ru": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Помощник по прицеливанию в бассейне и руководство на тренировках.",
-          "genre": "Ролевые",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "id": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Asisten bidik dan panduan latihan di kolam renang.",
-          "genre": "RPG",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "hi": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "पूल में लक्ष्य साधने में सहायक और प्रशिक्षण के लिए मार्गदर्शन",
-          "genre": "रोल प्ले",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
         }
       }
     },
