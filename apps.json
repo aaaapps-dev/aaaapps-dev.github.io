@@ -1,7 +1,7 @@
 {
   "developer": "AAAAPPS",
   "developerUrl": "https://play.google.com/store/apps/developer?id=AAAAPPS",
-  "updated": "2026-11-19T12:56:16.195Z",
+  "updated": "2026-11-19T21:24:03.701Z",
   "apps": [
     {
       "id": "com.deepoffice.app",
@@ -151,7 +151,7 @@
       "id": "com.deepcrosshair.app",
       "url": "https://play.google.com/store/apps/details?id=com.deepcrosshair.app",
       "icon": "https://play-lh.googleusercontent.com/L4fFyyB1EBCylqkPvqkxzQelIeFELqfQbgdDRQKwenSd_YTKluZ_3WPD0iC-Eue3w3NZP4cQTsB_-KsS1FRgaA",
-      "installs": 22,
+      "installs": 28,
       "title": "Deep Crosshair: Aim Overlay",
       "summary": "Custom crosshair overlay for your shooter games - clear, light &amp; easy to use.",
       "genre": "Tools",
@@ -511,7 +511,7 @@
       "id": "com.aimpro.app",
       "url": "https://play.google.com/store/apps/details?id=com.aimpro.app",
       "icon": "https://play-lh.googleusercontent.com/vcHBYr9qcBhEffVWTRBkKGA8vObuOUw_GmJgyD9t8INzu1EMm6azy9tp3YSAwvfdE-3YAJfeIfKcOsIvjMBR",
-      "installs": 57,
+      "installs": 59,
       "title": "AimPro - Pool Game Tool",
       "summary": "Pool aiming assistant and guidance for trainings",
       "genre": "Role Playing",
