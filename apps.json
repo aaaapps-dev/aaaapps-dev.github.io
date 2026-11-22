@@ -1,80 +1,8 @@
 {
   "developer": "AAAAPPS",
   "developerUrl": "https://play.google.com/store/apps/developer?id=AAAAPPS",
-  "updated": "2026-11-21T22:09:44.880Z",
+  "updated": "2026-11-22T12:14:16.618Z",
   "apps": [
-    {
-      "id": "com.deepoffice.app",
-      "url": "https://play.google.com/store/apps/details?id=com.deepoffice.app",
-      "icon": "https://play-lh.googleusercontent.com/NaXZCHFekrojiJKImSo6zsfpHEOO4OWvDQp64NvxCzUR0x9nz1c_HlVyNBBQVbKHem5zSJIaokRkLJ0ib-CH",
-      "installs": 6,
-      "title": "Deep Office: Viewer & Editor",
-      "summary": "All-in-one office: edit Word, Excel, PowerPoint &amp; PDF. Scan, sign, OCR. No ads!",
-      "genre": "Productivity",
-      "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A",
-      "i18n": {
-        "en": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "All-in-one office: edit Word, Excel, PowerPoint &amp; PDF. Scan, sign, OCR. No ads!",
-          "genre": "Productivity",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
-        },
-        "ar": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "مكتب متكامل: تحرير ملفات Word وExcel وPowerPoint وPDF. مسح ضوئي، توقيع، وتقنية التعرف الضوئي على الحروف (OCR). بدون إعلانات!",
-          "genre": "الإنتاجية",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
-        },
-        "es": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Oficina todo en uno: edita Word, Excel, PowerPoint y PDF. Escanea, firma, OCR. ¡Sin anuncios!",
-          "genre": "Productividad",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
-        },
-        "pt": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Escritório completo: edite arquivos Word, Excel, PowerPoint e PDF. Digitalize, assine, faça OCR. Sem anúncios!",
-          "genre": "Produtividade",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
-        },
-        "fr": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Suite bureautique tout-en-un : modifiez Word, Excel, PowerPoint et PDF. Numérisez, signez, intégrez la reconnaissance optique de caractères (OCR). Sans publicité !",
-          "genre": "Productivité",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
-        },
-        "de": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Alles fürs Büro: Word, Excel, PowerPoint &amp; PDF bearbeiten. Scannen, unterschreiben, OCR. Keine Werbung!",
-          "genre": "Effizienz",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
-        },
-        "tr": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Hepsi bir arada ofis: Word, Excel, PowerPoint ve PDF dosyalarını düzenleyin. Tarayın, imzalayın, OCR uygulayın. Reklam yok!",
-          "genre": "Verimlilik",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
-        },
-        "ru": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Универсальный офисный инструмент: редактирование документов Word, Excel, PowerPoint и PDF. Сканирование, подписание, распознавание текста. Без рекламы!",
-          "genre": "Работа",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
-        },
-        "id": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Aplikasi perkantoran lengkap: edit Word, Excel, PowerPoint &amp; PDF. Pindai, tanda tangani, OCR. Tanpa iklan!",
-          "genre": "Produktivitas",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
-        },
-        "hi": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "ऑल-इन-वन ऑफिस: वर्ड, एक्सेल, पॉवरपॉइंट और पीडीएफ में संपादन करें। स्कैन करें, हस्ताक्षर करें, ओसीआर का उपयोग करें। कोई विज्ञापन नहीं!",
-          "genre": "प्रॉडक्टिविटी",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
-        }
-      }
-    },
     {
       "id": "com.deepplan.app",
       "url": "https://play.google.com/store/apps/details?id=com.deepplan.app",
@@ -144,6 +72,78 @@
           "summary": "अपने घर को 2D और 3D में डिज़ाइन करें: फ्लोर प्लान, फर्नीचर और स्मार्ट प्लान चेक।",
           "genre": "घर और उससे जुड़ी ज़रूरतें",
           "featureGraphic": "https://play-lh.googleusercontent.com/zaMR9B0zE3VHM4v4965J5bfVseKjyGoVyrhdaW8xZSlo2LGh2NqTVSvDUeOgOS2-eFkoLDHIgjgPb545EEZN"
+        }
+      }
+    },
+    {
+      "id": "com.deepoffice.app",
+      "url": "https://play.google.com/store/apps/details?id=com.deepoffice.app",
+      "icon": "https://play-lh.googleusercontent.com/NaXZCHFekrojiJKImSo6zsfpHEOO4OWvDQp64NvxCzUR0x9nz1c_HlVyNBBQVbKHem5zSJIaokRkLJ0ib-CH",
+      "installs": 6,
+      "title": "Deep Office: Viewer & Editor",
+      "summary": "All-in-one office: edit Word, Excel, PowerPoint &amp; PDF. Scan, sign, OCR. No ads!",
+      "genre": "Productivity",
+      "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A",
+      "i18n": {
+        "en": {
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "All-in-one office: edit Word, Excel, PowerPoint &amp; PDF. Scan, sign, OCR. No ads!",
+          "genre": "Productivity",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+        },
+        "ar": {
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "مكتب متكامل: تحرير ملفات Word وExcel وPowerPoint وPDF. مسح ضوئي، توقيع، وتقنية التعرف الضوئي على الحروف (OCR). بدون إعلانات!",
+          "genre": "الإنتاجية",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+        },
+        "es": {
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Oficina todo en uno: edita Word, Excel, PowerPoint y PDF. Escanea, firma, OCR. ¡Sin anuncios!",
+          "genre": "Productividad",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+        },
+        "pt": {
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Escritório completo: edite arquivos Word, Excel, PowerPoint e PDF. Digitalize, assine, faça OCR. Sem anúncios!",
+          "genre": "Produtividade",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+        },
+        "fr": {
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Suite bureautique tout-en-un : modifiez Word, Excel, PowerPoint et PDF. Numérisez, signez, intégrez la reconnaissance optique de caractères (OCR). Sans publicité !",
+          "genre": "Productivité",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+        },
+        "de": {
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Alles fürs Büro: Word, Excel, PowerPoint &amp; PDF bearbeiten. Scannen, unterschreiben, OCR. Keine Werbung!",
+          "genre": "Effizienz",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+        },
+        "tr": {
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Hepsi bir arada ofis: Word, Excel, PowerPoint ve PDF dosyalarını düzenleyin. Tarayın, imzalayın, OCR uygulayın. Reklam yok!",
+          "genre": "Verimlilik",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+        },
+        "ru": {
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Универсальный офисный инструмент: редактирование документов Word, Excel, PowerPoint и PDF. Сканирование, подписание, распознавание текста. Без рекламы!",
+          "genre": "Работа",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+        },
+        "id": {
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Aplikasi perkantoran lengkap: edit Word, Excel, PowerPoint &amp; PDF. Pindai, tanda tangani, OCR. Tanpa iklan!",
+          "genre": "Produktivitas",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+        },
+        "hi": {
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "ऑल-इन-वन ऑफिस: वर्ड, एक्सेल, पॉवरपॉइंट और पीडीएफ में संपादन करें। स्कैन करें, हस्ताक्षर करें, ओसीआर का उपयोग करें। कोई विज्ञापन नहीं!",
+          "genre": "प्रॉडक्टिविटी",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
         }
       }
     },
@@ -508,78 +508,6 @@
       }
     },
     {
-      "id": "com.aimpro.app",
-      "url": "https://play.google.com/store/apps/details?id=com.aimpro.app",
-      "icon": "https://play-lh.googleusercontent.com/vcHBYr9qcBhEffVWTRBkKGA8vObuOUw_GmJgyD9t8INzu1EMm6azy9tp3YSAwvfdE-3YAJfeIfKcOsIvjMBR",
-      "installs": 63,
-      "title": "AimPro - Pool Game Tool",
-      "summary": "Pool aiming assistant and guidance for trainings",
-      "genre": "Role Playing",
-      "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ",
-      "i18n": {
-        "en": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Pool aiming assistant and guidance for trainings",
-          "genre": "Role Playing",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "ar": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "مساعد في التصويب في البلياردو وتوجيه التدريبات",
-          "genre": "تقمص الأدوار",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "es": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Asistente de puntería y guía para entrenamientos en piscina",
-          "genre": "Juegos de rol",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "pt": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Assistente de mira e orientação para treinamentos de sinuca",
-          "genre": "RPG",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "fr": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Assistance et conseils pour l'entraînement au billard",
-          "genre": "Jeux de rôles",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "de": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Zielhilfe und Trainingsanleitung für den Pool",
-          "genre": "Rollenspiele",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "tr": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Havuzda hedef belirleme asistanlığı ve eğitimler için rehberlik",
-          "genre": "Rol yapma",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "ru": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Помощник по прицеливанию в бассейне и руководство на тренировках.",
-          "genre": "Ролевые",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "id": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "Asisten bidik dan panduan latihan di kolam renang.",
-          "genre": "RPG",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        },
-        "hi": {
-          "title": "AimPro - Pool Game Tool",
-          "summary": "पूल में लक्ष्य साधने में सहायक और प्रशिक्षण के लिए मार्गदर्शन",
-          "genre": "रोल प्ले",
-          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
-        }
-      }
-    },
-    {
       "id": "com.deepkeyboard.app",
       "url": "https://play.google.com/store/apps/details?id=com.deepkeyboard.app",
       "icon": "https://play-lh.googleusercontent.com/jE6bwHwllbcH8Tu3dYLbtTnxwv5rAOiYt85zODt9gGrsrgghWmgCLxogaAu3EXvA6bcgzHht6OZbELBhZt9G",
@@ -648,6 +576,78 @@
           "summary": "कस्टम थीम, वॉइस टाइपिंग, टेक्स्ट शॉर्टकट, इमोजी सर्च और ड्राइव बैकअप",
           "genre": "मनमुताबिक बनाना",
           "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
+        }
+      }
+    },
+    {
+      "id": "com.aimpro.app",
+      "url": "https://play.google.com/store/apps/details?id=com.aimpro.app",
+      "icon": "https://play-lh.googleusercontent.com/vcHBYr9qcBhEffVWTRBkKGA8vObuOUw_GmJgyD9t8INzu1EMm6azy9tp3YSAwvfdE-3YAJfeIfKcOsIvjMBR",
+      "installs": 63,
+      "title": "AimPro - Pool Game Tool",
+      "summary": "Pool aiming assistant and guidance for trainings",
+      "genre": "Role Playing",
+      "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ",
+      "i18n": {
+        "en": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Pool aiming assistant and guidance for trainings",
+          "genre": "Role Playing",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "ar": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "مساعد في التصويب في البلياردو وتوجيه التدريبات",
+          "genre": "تقمص الأدوار",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "es": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Asistente de puntería y guía para entrenamientos en piscina",
+          "genre": "Juegos de rol",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "pt": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Assistente de mira e orientação para treinamentos de sinuca",
+          "genre": "RPG",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "fr": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Assistance et conseils pour l'entraînement au billard",
+          "genre": "Jeux de rôles",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "de": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Zielhilfe und Trainingsanleitung für den Pool",
+          "genre": "Rollenspiele",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "tr": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Havuzda hedef belirleme asistanlığı ve eğitimler için rehberlik",
+          "genre": "Rol yapma",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "ru": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Помощник по прицеливанию в бассейне и руководство на тренировках.",
+          "genre": "Ролевые",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "id": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "Asisten bidik dan panduan latihan di kolam renang.",
+          "genre": "RPG",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        },
+        "hi": {
+          "title": "AimPro - Pool Game Tool",
+          "summary": "पूल में लक्ष्य साधने में सहायक और प्रशिक्षण के लिए मार्गदर्शन",
+          "genre": "रोल प्ले",
+          "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
         }
       }
     },
