@@ -1,7 +1,7 @@
 {
   "developer": "AAAAPPS",
   "developerUrl": "https://play.google.com/store/apps/developer?id=AAAAPPS",
-  "updated": "2026-11-22T21:17:51.543Z",
+  "updated": "2026-11-23T01:29:20.932Z",
   "apps": [
     {
       "id": "com.deepplan.app",
@@ -148,78 +148,6 @@
       }
     },
     {
-      "id": "com.deepcrosshair.app",
-      "url": "https://play.google.com/store/apps/details?id=com.deepcrosshair.app",
-      "icon": "https://play-lh.googleusercontent.com/L4fFyyB1EBCylqkPvqkxzQelIeFELqfQbgdDRQKwenSd_YTKluZ_3WPD0iC-Eue3w3NZP4cQTsB_-KsS1FRgaA",
-      "installs": 55,
-      "title": "Deep Crosshair: Aim Overlay",
-      "summary": "Custom crosshair overlay for your shooter games - clear, light &amp; easy to use.",
-      "genre": "Tools",
-      "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA",
-      "i18n": {
-        "en": {
-          "title": "Deep Crosshair: Aim Overlay",
-          "summary": "Custom crosshair overlay for your shooter games - clear, light &amp; easy to use.",
-          "genre": "Tools",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
-        },
-        "ar": {
-          "title": "Deep Crosshair: علامة تصويب",
-          "summary": "علامة تصويب مخصصة فوق ألعاب التصويب - واضحة وخفيفة وسهلة الاستخدام.",
-          "genre": "الأدوات",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
-        },
-        "es": {
-          "title": "Deep Crosshair: Mira Flotante",
-          "summary": "Mira personalizada para tus juegos de disparos: clara, ligera y fácil de usar.",
-          "genre": "Herramientas",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
-        },
-        "pt": {
-          "title": "Deep Crosshair: Mira na Tela",
-          "summary": "Mira personalizada sobre seus jogos de tiro: nítida, leve e fácil de usar.",
-          "genre": "Ferramentas",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
-        },
-        "fr": {
-          "title": "Deep Crosshair : Réticule",
-          "summary": "Réticule sur mesure pour vos jeux de tir : net, léger et simple à utiliser.",
-          "genre": "Outils",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
-        },
-        "de": {
-          "title": "Deep Crosshair: Fadenkreuz",
-          "summary": "Eigenes Fadenkreuz für deine Shooter – klar, leicht und kinderleicht.",
-          "genre": "Tools",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
-        },
-        "tr": {
-          "title": "Deep Crosshair: Nişan Katmanı",
-          "summary": "Nişancı oyunları için özel nişangah katmanı - net, hafif ve kolay.",
-          "genre": "Araçlar",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
-        },
-        "ru": {
-          "title": "Deep Crosshair: Прицел-оверлей",
-          "summary": "Свой прицел поверх любого шутера — чётко, легко и без лишних настроек.",
-          "genre": "Инструменты",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
-        },
-        "id": {
-          "title": "Deep Crosshair: Overlay Bidik",
-          "summary": "Overlay crosshair kustom untuk game tembak-tembakan - jelas, ringan &amp; mudah.",
-          "genre": "Alat ",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
-        },
-        "hi": {
-          "title": "Deep Crosshair: एम ओवरले",
-          "summary": "आपके शूटर गेम्स के लिए कस्टम क्रॉसहेयर ओवरले – साफ़, हल्का और इस्तेमाल में आसान।",
-          "genre": "टूल",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
-        }
-      }
-    },
-    {
       "id": "com.extranotibar.app",
       "url": "https://play.google.com/store/apps/details?id=com.extranotibar.app",
       "icon": "https://play-lh.googleusercontent.com/QSUU8XFgk_SF5XSxQirhfRJ_-SCShFEzANB1vs6AzkIr7NrgVI5bGdeqwCA31XxulAYV7LOZIAQHWTF-hqG0fA",
@@ -288,6 +216,78 @@
           "summary": "स्टेटस बार के नीचे एक सुव्यवस्थित पट्टी में आपकी सभी सूचनाएं देखें। टैप करें, पढ़ें और जवाब दें।",
           "genre": "मनमुताबिक बनाना",
           "featureGraphic": "https://play-lh.googleusercontent.com/CWW6dZfbojAXW5iIKPn-2Z55Bz3fGlvAOcXLlgY-dcBE7PFbU6q0N4kCLC_jW_f2jnwcDm-KI6PPI3AorgSEv2I"
+        }
+      }
+    },
+    {
+      "id": "com.deepcrosshair.app",
+      "url": "https://play.google.com/store/apps/details?id=com.deepcrosshair.app",
+      "icon": "https://play-lh.googleusercontent.com/L4fFyyB1EBCylqkPvqkxzQelIeFELqfQbgdDRQKwenSd_YTKluZ_3WPD0iC-Eue3w3NZP4cQTsB_-KsS1FRgaA",
+      "installs": 55,
+      "title": "Deep Crosshair: Aim Overlay",
+      "summary": "Custom crosshair overlay for your shooter games - clear, light &amp; easy to use.",
+      "genre": "Tools",
+      "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA",
+      "i18n": {
+        "en": {
+          "title": "Deep Crosshair: Aim Overlay",
+          "summary": "Custom crosshair overlay for your shooter games - clear, light &amp; easy to use.",
+          "genre": "Tools",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+        },
+        "ar": {
+          "title": "Deep Crosshair: علامة تصويب",
+          "summary": "علامة تصويب مخصصة فوق ألعاب التصويب - واضحة وخفيفة وسهلة الاستخدام.",
+          "genre": "الأدوات",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+        },
+        "es": {
+          "title": "Deep Crosshair: Mira Flotante",
+          "summary": "Mira personalizada para tus juegos de disparos: clara, ligera y fácil de usar.",
+          "genre": "Herramientas",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+        },
+        "pt": {
+          "title": "Deep Crosshair: Mira na Tela",
+          "summary": "Mira personalizada sobre seus jogos de tiro: nítida, leve e fácil de usar.",
+          "genre": "Ferramentas",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+        },
+        "fr": {
+          "title": "Deep Crosshair : Réticule",
+          "summary": "Réticule sur mesure pour vos jeux de tir : net, léger et simple à utiliser.",
+          "genre": "Outils",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+        },
+        "de": {
+          "title": "Deep Crosshair: Fadenkreuz",
+          "summary": "Eigenes Fadenkreuz für deine Shooter – klar, leicht und kinderleicht.",
+          "genre": "Tools",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+        },
+        "tr": {
+          "title": "Deep Crosshair: Nişan Katmanı",
+          "summary": "Nişancı oyunları için özel nişangah katmanı - net, hafif ve kolay.",
+          "genre": "Araçlar",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+        },
+        "ru": {
+          "title": "Deep Crosshair: Прицел-оверлей",
+          "summary": "Свой прицел поверх любого шутера — чётко, легко и без лишних настроек.",
+          "genre": "Инструменты",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+        },
+        "id": {
+          "title": "Deep Crosshair: Overlay Bidik",
+          "summary": "Overlay crosshair kustom untuk game tembak-tembakan - jelas, ringan &amp; mudah.",
+          "genre": "Alat ",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+        },
+        "hi": {
+          "title": "Deep Crosshair: एम ओवरले",
+          "summary": "आपके शूटर गेम्स के लिए कस्टम क्रॉसहेयर ओवरले – साफ़, हल्का और इस्तेमाल में आसान।",
+          "genre": "टूल",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
         }
       }
     },
@@ -508,78 +508,6 @@
       }
     },
     {
-      "id": "com.deepkeyboard.app",
-      "url": "https://play.google.com/store/apps/details?id=com.deepkeyboard.app",
-      "icon": "https://play-lh.googleusercontent.com/jE6bwHwllbcH8Tu3dYLbtTnxwv5rAOiYt85zODt9gGrsrgghWmgCLxogaAu3EXvA6bcgzHht6OZbELBhZt9G",
-      "installs": 0,
-      "title": "Deep Keyboard - Custom Themes",
-      "summary": "Custom themes, voice typing, text shortcuts, emoji search &amp; Drive backup",
-      "genre": "Personalization",
-      "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q",
-      "i18n": {
-        "en": {
-          "title": "Deep Keyboard - Custom Themes",
-          "summary": "Custom themes, voice typing, text shortcuts, emoji search &amp; Drive backup",
-          "genre": "Personalization",
-          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
-        },
-        "ar": {
-          "title": "Deep Keyboard - Custom Themes",
-          "summary": "سمات مخصصة، كتابة صوتية، اختصارات نصية، بحث عن الرموز التعبيرية، ونسخ احتياطي لمحرك الأقراص",
-          "genre": "تخصيص",
-          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
-        },
-        "es": {
-          "title": "Deep Keyboard - Custom Themes",
-          "summary": "Temas personalizados, dictado por voz, accesos directos de texto, búsqueda de emojis y copia de seguridad de Drive.",
-          "genre": "Personalización",
-          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
-        },
-        "pt": {
-          "title": "Deep Keyboard - Custom Themes",
-          "summary": "Temas personalizados, digitação por voz, atalhos de texto, busca por emojis e backup do Drive.",
-          "genre": "Personalização",
-          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
-        },
-        "fr": {
-          "title": "Deep Keyboard - Custom Themes",
-          "summary": "Thèmes personnalisés, saisie vocale, raccourcis texte, recherche d'émojis et sauvegarde Drive",
-          "genre": "Personnalisation",
-          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
-        },
-        "de": {
-          "title": "Deep Keyboard - Custom Themes",
-          "summary": "Benutzerdefinierte Designs, Spracheingabe, Textkürzel, Emoji-Suche und Drive-Backup",
-          "genre": "Personalisierung",
-          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
-        },
-        "tr": {
-          "title": "Deep Keyboard - Custom Themes",
-          "summary": "Özel temalar, sesli yazma, metin kısayolları, emoji arama ve Drive yedekleme",
-          "genre": "Kişiselleştirme",
-          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
-        },
-        "ru": {
-          "title": "Deep Keyboard - Custom Themes",
-          "summary": "Пользовательские темы, голосовой ввод, текстовые сочетания клавиш, поиск эмодзи и резервное копирование в Google Диск.",
-          "genre": "Персонализация",
-          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
-        },
-        "id": {
-          "title": "Deep Keyboard - Custom Themes",
-          "summary": "Tema kustom, pengetikan suara, pintasan teks, pencarian emoji &amp; pencadangan Drive",
-          "genre": "Personalisasi",
-          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
-        },
-        "hi": {
-          "title": "Deep Keyboard - Custom Themes",
-          "summary": "कस्टम थीम, वॉइस टाइपिंग, टेक्स्ट शॉर्टकट, इमोजी सर्च और ड्राइव बैकअप",
-          "genre": "मनमुताबिक बनाना",
-          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
-        }
-      }
-    },
-    {
       "id": "com.aimpro.app",
       "url": "https://play.google.com/store/apps/details?id=com.aimpro.app",
       "icon": "https://play-lh.googleusercontent.com/vcHBYr9qcBhEffVWTRBkKGA8vObuOUw_GmJgyD9t8INzu1EMm6azy9tp3YSAwvfdE-3YAJfeIfKcOsIvjMBR",
@@ -648,6 +576,78 @@
           "summary": "पूल में लक्ष्य साधने में सहायक और प्रशिक्षण के लिए मार्गदर्शन",
           "genre": "रोल प्ले",
           "featureGraphic": "https://play-lh.googleusercontent.com/HCjXN472bFGPOO4ukqBc1c33LtF95dr81wPeU1_mdWHCYSyddr_UWI8yysLOtDEiVjmtQ3AEUoNaDZz9jQHYSQ"
+        }
+      }
+    },
+    {
+      "id": "com.deepkeyboard.app",
+      "url": "https://play.google.com/store/apps/details?id=com.deepkeyboard.app",
+      "icon": "https://play-lh.googleusercontent.com/jE6bwHwllbcH8Tu3dYLbtTnxwv5rAOiYt85zODt9gGrsrgghWmgCLxogaAu3EXvA6bcgzHht6OZbELBhZt9G",
+      "installs": 0,
+      "title": "Deep Keyboard - Custom Themes",
+      "summary": "Custom themes, voice typing, text shortcuts, emoji search &amp; Drive backup",
+      "genre": "Personalization",
+      "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q",
+      "i18n": {
+        "en": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Custom themes, voice typing, text shortcuts, emoji search &amp; Drive backup",
+          "genre": "Personalization",
+          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
+        },
+        "ar": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "سمات مخصصة، كتابة صوتية، اختصارات نصية، بحث عن الرموز التعبيرية، ونسخ احتياطي لمحرك الأقراص",
+          "genre": "تخصيص",
+          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
+        },
+        "es": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Temas personalizados, dictado por voz, accesos directos de texto, búsqueda de emojis y copia de seguridad de Drive.",
+          "genre": "Personalización",
+          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
+        },
+        "pt": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Temas personalizados, digitação por voz, atalhos de texto, busca por emojis e backup do Drive.",
+          "genre": "Personalização",
+          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
+        },
+        "fr": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Thèmes personnalisés, saisie vocale, raccourcis texte, recherche d'émojis et sauvegarde Drive",
+          "genre": "Personnalisation",
+          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
+        },
+        "de": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Benutzerdefinierte Designs, Spracheingabe, Textkürzel, Emoji-Suche und Drive-Backup",
+          "genre": "Personalisierung",
+          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
+        },
+        "tr": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Özel temalar, sesli yazma, metin kısayolları, emoji arama ve Drive yedekleme",
+          "genre": "Kişiselleştirme",
+          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
+        },
+        "ru": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Пользовательские темы, голосовой ввод, текстовые сочетания клавиш, поиск эмодзи и резервное копирование в Google Диск.",
+          "genre": "Персонализация",
+          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
+        },
+        "id": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "Tema kustom, pengetikan suara, pintasan teks, pencarian emoji &amp; pencadangan Drive",
+          "genre": "Personalisasi",
+          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
+        },
+        "hi": {
+          "title": "Deep Keyboard - Custom Themes",
+          "summary": "कस्टम थीम, वॉइस टाइपिंग, टेक्स्ट शॉर्टकट, इमोजी सर्च और ड्राइव बैकअप",
+          "genre": "मनमुताबिक बनाना",
+          "featureGraphic": "https://play-lh.googleusercontent.com/rW3wlhuH0xUc9zCG3B20yTpXEbNxIrLI5J7EitQdbpQnmnBmLT4b_4o5ptPQY188Upf-m22YwUwSwRGv67315Q"
         }
       }
     },
