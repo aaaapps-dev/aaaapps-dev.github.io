@@ -1,13 +1,13 @@
 {
   "developer": "AAAAPPS",
   "developerUrl": "https://play.google.com/store/apps/developer?id=AAAAPPS",
-  "updated": "2026-11-23T01:29:20.932Z",
+  "updated": "2026-11-23T17:38:57.468Z",
   "apps": [
     {
       "id": "com.deepplan.app",
       "url": "https://play.google.com/store/apps/details?id=com.deepplan.app",
       "icon": "https://play-lh.googleusercontent.com/IGUYeZXvI7MbiGP8eUp1S_ntByHWOVw647ilxrfcbiS3EbdVX-i6FKjhD8AyHEXbJuXWZtRmHV5MNv2P0Wdu3A",
-      "installs": 23,
+      "installs": 28,
       "title": "DEEP Plan: 3D Floor Plan Maker",
       "summary": "Design your home in 2D and 3D: floor plans, furniture and a smart plan check",
       "genre": "House & Home",
@@ -76,74 +76,74 @@
       }
     },
     {
-      "id": "com.deepoffice.app",
-      "url": "https://play.google.com/store/apps/details?id=com.deepoffice.app",
-      "icon": "https://play-lh.googleusercontent.com/NaXZCHFekrojiJKImSo6zsfpHEOO4OWvDQp64NvxCzUR0x9nz1c_HlVyNBBQVbKHem5zSJIaokRkLJ0ib-CH",
-      "installs": 6,
-      "title": "Deep Office: Viewer & Editor",
-      "summary": "All-in-one office: edit Word, Excel, PowerPoint &amp; PDF. Scan, sign, OCR. No ads!",
-      "genre": "Productivity",
-      "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A",
+      "id": "com.deepcrosshair.app",
+      "url": "https://play.google.com/store/apps/details?id=com.deepcrosshair.app",
+      "icon": "https://play-lh.googleusercontent.com/L4fFyyB1EBCylqkPvqkxzQelIeFELqfQbgdDRQKwenSd_YTKluZ_3WPD0iC-Eue3w3NZP4cQTsB_-KsS1FRgaA",
+      "installs": 67,
+      "title": "Deep Crosshair: Aim Overlay",
+      "summary": "Custom crosshair overlay for your shooter games - clear, light &amp; easy to use.",
+      "genre": "Tools",
+      "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA",
       "i18n": {
         "en": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "All-in-one office: edit Word, Excel, PowerPoint &amp; PDF. Scan, sign, OCR. No ads!",
-          "genre": "Productivity",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+          "title": "Deep Crosshair: Aim Overlay",
+          "summary": "Custom crosshair overlay for your shooter games - clear, light &amp; easy to use.",
+          "genre": "Tools",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
         },
         "ar": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "مكتب متكامل: تحرير ملفات Word وExcel وPowerPoint وPDF. مسح ضوئي، توقيع، وتقنية التعرف الضوئي على الحروف (OCR). بدون إعلانات!",
-          "genre": "الإنتاجية",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+          "title": "Deep Crosshair: علامة تصويب",
+          "summary": "علامة تصويب مخصصة فوق ألعاب التصويب - واضحة وخفيفة وسهلة الاستخدام.",
+          "genre": "الأدوات",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
         },
         "es": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Oficina todo en uno: edita Word, Excel, PowerPoint y PDF. Escanea, firma, OCR. ¡Sin anuncios!",
-          "genre": "Productividad",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+          "title": "Deep Crosshair: Mira Flotante",
+          "summary": "Mira personalizada para tus juegos de disparos: clara, ligera y fácil de usar.",
+          "genre": "Herramientas",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
         },
         "pt": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Escritório completo: edite arquivos Word, Excel, PowerPoint e PDF. Digitalize, assine, faça OCR. Sem anúncios!",
-          "genre": "Produtividade",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+          "title": "Deep Crosshair: Mira na Tela",
+          "summary": "Mira personalizada sobre seus jogos de tiro: nítida, leve e fácil de usar.",
+          "genre": "Ferramentas",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
         },
         "fr": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Suite bureautique tout-en-un : modifiez Word, Excel, PowerPoint et PDF. Numérisez, signez, intégrez la reconnaissance optique de caractères (OCR). Sans publicité !",
-          "genre": "Productivité",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+          "title": "Deep Crosshair : Réticule",
+          "summary": "Réticule sur mesure pour vos jeux de tir : net, léger et simple à utiliser.",
+          "genre": "Outils",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
         },
         "de": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Alles fürs Büro: Word, Excel, PowerPoint &amp; PDF bearbeiten. Scannen, unterschreiben, OCR. Keine Werbung!",
-          "genre": "Effizienz",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+          "title": "Deep Crosshair: Fadenkreuz",
+          "summary": "Eigenes Fadenkreuz für deine Shooter – klar, leicht und kinderleicht.",
+          "genre": "Tools",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
         },
         "tr": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Hepsi bir arada ofis: Word, Excel, PowerPoint ve PDF dosyalarını düzenleyin. Tarayın, imzalayın, OCR uygulayın. Reklam yok!",
-          "genre": "Verimlilik",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+          "title": "Deep Crosshair: Nişan Katmanı",
+          "summary": "Nişancı oyunları için özel nişangah katmanı - net, hafif ve kolay.",
+          "genre": "Araçlar",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
         },
         "ru": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Универсальный офисный инструмент: редактирование документов Word, Excel, PowerPoint и PDF. Сканирование, подписание, распознавание текста. Без рекламы!",
-          "genre": "Работа",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+          "title": "Deep Crosshair: Прицел-оверлей",
+          "summary": "Свой прицел поверх любого шутера — чётко, легко и без лишних настроек.",
+          "genre": "Инструменты",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
         },
         "id": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "Aplikasi perkantoran lengkap: edit Word, Excel, PowerPoint &amp; PDF. Pindai, tanda tangani, OCR. Tanpa iklan!",
-          "genre": "Produktivitas",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+          "title": "Deep Crosshair: Overlay Bidik",
+          "summary": "Overlay crosshair kustom untuk game tembak-tembakan - jelas, ringan &amp; mudah.",
+          "genre": "Alat ",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
         },
         "hi": {
-          "title": "Deep Office: Viewer & Editor",
-          "summary": "ऑल-इन-वन ऑफिस: वर्ड, एक्सेल, पॉवरपॉइंट और पीडीएफ में संपादन करें। स्कैन करें, हस्ताक्षर करें, ओसीआर का उपयोग करें। कोई विज्ञापन नहीं!",
-          "genre": "प्रॉडक्टिविटी",
-          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
+          "title": "Deep Crosshair: एम ओवरले",
+          "summary": "आपके शूटर गेम्स के लिए कस्टम क्रॉसहेयर ओवरले – साफ़, हल्का और इस्तेमाल में आसान।",
+          "genre": "टूल",
+          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
         }
       }
     },
@@ -220,74 +220,74 @@
       }
     },
     {
-      "id": "com.deepcrosshair.app",
-      "url": "https://play.google.com/store/apps/details?id=com.deepcrosshair.app",
-      "icon": "https://play-lh.googleusercontent.com/L4fFyyB1EBCylqkPvqkxzQelIeFELqfQbgdDRQKwenSd_YTKluZ_3WPD0iC-Eue3w3NZP4cQTsB_-KsS1FRgaA",
-      "installs": 55,
-      "title": "Deep Crosshair: Aim Overlay",
-      "summary": "Custom crosshair overlay for your shooter games - clear, light &amp; easy to use.",
-      "genre": "Tools",
-      "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA",
+      "id": "com.deepoffice.app",
+      "url": "https://play.google.com/store/apps/details?id=com.deepoffice.app",
+      "icon": "https://play-lh.googleusercontent.com/NaXZCHFekrojiJKImSo6zsfpHEOO4OWvDQp64NvxCzUR0x9nz1c_HlVyNBBQVbKHem5zSJIaokRkLJ0ib-CH",
+      "installs": 8,
+      "title": "Deep Office: Viewer & Editor",
+      "summary": "All-in-one office: edit Word, Excel, PowerPoint &amp; PDF. Scan, sign, OCR. No ads!",
+      "genre": "Productivity",
+      "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A",
       "i18n": {
         "en": {
-          "title": "Deep Crosshair: Aim Overlay",
-          "summary": "Custom crosshair overlay for your shooter games - clear, light &amp; easy to use.",
-          "genre": "Tools",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "All-in-one office: edit Word, Excel, PowerPoint &amp; PDF. Scan, sign, OCR. No ads!",
+          "genre": "Productivity",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
         },
         "ar": {
-          "title": "Deep Crosshair: علامة تصويب",
-          "summary": "علامة تصويب مخصصة فوق ألعاب التصويب - واضحة وخفيفة وسهلة الاستخدام.",
-          "genre": "الأدوات",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "مكتب متكامل: تحرير ملفات Word وExcel وPowerPoint وPDF. مسح ضوئي، توقيع، وتقنية التعرف الضوئي على الحروف (OCR). بدون إعلانات!",
+          "genre": "الإنتاجية",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
         },
         "es": {
-          "title": "Deep Crosshair: Mira Flotante",
-          "summary": "Mira personalizada para tus juegos de disparos: clara, ligera y fácil de usar.",
-          "genre": "Herramientas",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Oficina todo en uno: edita Word, Excel, PowerPoint y PDF. Escanea, firma, OCR. ¡Sin anuncios!",
+          "genre": "Productividad",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
         },
         "pt": {
-          "title": "Deep Crosshair: Mira na Tela",
-          "summary": "Mira personalizada sobre seus jogos de tiro: nítida, leve e fácil de usar.",
-          "genre": "Ferramentas",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Escritório completo: edite arquivos Word, Excel, PowerPoint e PDF. Digitalize, assine, faça OCR. Sem anúncios!",
+          "genre": "Produtividade",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
         },
         "fr": {
-          "title": "Deep Crosshair : Réticule",
-          "summary": "Réticule sur mesure pour vos jeux de tir : net, léger et simple à utiliser.",
-          "genre": "Outils",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Suite bureautique tout-en-un : modifiez Word, Excel, PowerPoint et PDF. Numérisez, signez, intégrez la reconnaissance optique de caractères (OCR). Sans publicité !",
+          "genre": "Productivité",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
         },
         "de": {
-          "title": "Deep Crosshair: Fadenkreuz",
-          "summary": "Eigenes Fadenkreuz für deine Shooter – klar, leicht und kinderleicht.",
-          "genre": "Tools",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Alles fürs Büro: Word, Excel, PowerPoint &amp; PDF bearbeiten. Scannen, unterschreiben, OCR. Keine Werbung!",
+          "genre": "Effizienz",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
         },
         "tr": {
-          "title": "Deep Crosshair: Nişan Katmanı",
-          "summary": "Nişancı oyunları için özel nişangah katmanı - net, hafif ve kolay.",
-          "genre": "Araçlar",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Hepsi bir arada ofis: Word, Excel, PowerPoint ve PDF dosyalarını düzenleyin. Tarayın, imzalayın, OCR uygulayın. Reklam yok!",
+          "genre": "Verimlilik",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
         },
         "ru": {
-          "title": "Deep Crosshair: Прицел-оверлей",
-          "summary": "Свой прицел поверх любого шутера — чётко, легко и без лишних настроек.",
-          "genre": "Инструменты",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Универсальный офисный инструмент: редактирование документов Word, Excel, PowerPoint и PDF. Сканирование, подписание, распознавание текста. Без рекламы!",
+          "genre": "Работа",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
         },
         "id": {
-          "title": "Deep Crosshair: Overlay Bidik",
-          "summary": "Overlay crosshair kustom untuk game tembak-tembakan - jelas, ringan &amp; mudah.",
-          "genre": "Alat ",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "Aplikasi perkantoran lengkap: edit Word, Excel, PowerPoint &amp; PDF. Pindai, tanda tangani, OCR. Tanpa iklan!",
+          "genre": "Produktivitas",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
         },
         "hi": {
-          "title": "Deep Crosshair: एम ओवरले",
-          "summary": "आपके शूटर गेम्स के लिए कस्टम क्रॉसहेयर ओवरले – साफ़, हल्का और इस्तेमाल में आसान।",
-          "genre": "टूल",
-          "featureGraphic": "https://play-lh.googleusercontent.com/WcgFI14MPKkXqC6XSjfKlkINLFW_F-MCmBdeKuQOg1e_7ZwrH9BpU-zkyvso9x3zVunwCP3BFsKboOCMJO8vOA"
+          "title": "Deep Office: Viewer & Editor",
+          "summary": "ऑल-इन-वन ऑफिस: वर्ड, एक्सेल, पॉवरपॉइंट और पीडीएफ में संपादन करें। स्कैन करें, हस्ताक्षर करें, ओसीआर का उपयोग करें। कोई विज्ञापन नहीं!",
+          "genre": "प्रॉडक्टिविटी",
+          "featureGraphic": "https://play-lh.googleusercontent.com/Lx-uNzbUkmvuP1rQCE8xBNTe5w9Z_lsaH2rN_h_T8czCyMWBRUiW6CGIKYmRciWi-jmJQdMjKH25nzGM0uIN8A"
         }
       }
     },
@@ -367,7 +367,7 @@
       "id": "com.machdm.app",
       "url": "https://play.google.com/store/apps/details?id=com.machdm.app",
       "icon": "https://play-lh.googleusercontent.com/ouUvMdmNm8ZBaf-JpQti9u9EvWIhX5pXuVXKso5mntUSo6FmRP-Y2fzhUzQC3Q1_M2UFmD_Gz410l-dMvYLr",
-      "installs": 125,
+      "installs": 128,
       "title": "Deep Video Downloader & saver",
       "summary": "Find and download videos from any website in all resolutions — super fast.",
       "genre": "Tools",
@@ -511,7 +511,7 @@
       "id": "com.aimpro.app",
       "url": "https://play.google.com/store/apps/details?id=com.aimpro.app",
       "icon": "https://play-lh.googleusercontent.com/vcHBYr9qcBhEffVWTRBkKGA8vObuOUw_GmJgyD9t8INzu1EMm6azy9tp3YSAwvfdE-3YAJfeIfKcOsIvjMBR",
-      "installs": 66,
+      "installs": 69,
       "title": "AimPro - Pool Game Tool",
       "summary": "Pool aiming assistant and guidance for trainings",
       "genre": "Role Playing",
@@ -583,7 +583,7 @@
       "id": "com.deepkeyboard.app",
       "url": "https://play.google.com/store/apps/details?id=com.deepkeyboard.app",
       "icon": "https://play-lh.googleusercontent.com/jE6bwHwllbcH8Tu3dYLbtTnxwv5rAOiYt85zODt9gGrsrgghWmgCLxogaAu3EXvA6bcgzHht6OZbELBhZt9G",
-      "installs": 0,
+      "installs": 1,
       "title": "Deep Keyboard - Custom Themes",
       "summary": "Custom themes, voice typing, text shortcuts, emoji search &amp; Drive backup",
       "genre": "Personalization",
