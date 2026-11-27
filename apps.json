@@ -1,7 +1,7 @@
 {
   "developer": "AAAAPPS",
   "developerUrl": "https://play.google.com/store/apps/developer?id=AAAAPPS",
-  "updated": "2026-11-27T01:33:45.816Z",
+  "updated": "2026-11-27T02:13:06.429Z",
   "apps": [
     {
       "id": "com.deepplan.app",
@@ -583,7 +583,7 @@
       "id": "com.aimpro.app",
       "url": "https://play.google.com/store/apps/details?id=com.aimpro.app",
       "icon": "https://play-lh.googleusercontent.com/vcHBYr9qcBhEffVWTRBkKGA8vObuOUw_GmJgyD9t8INzu1EMm6azy9tp3YSAwvfdE-3YAJfeIfKcOsIvjMBR",
-      "installs": 75,
+      "installs": 78,
       "title": "AimPro - Pool Game Tool",
       "summary": "Pool aiming assistant and guidance for trainings",
       "genre": "Role Playing",
