@@ -1,7 +1,7 @@
 {
   "developer": "AAAAPPS",
   "developerUrl": "https://play.google.com/store/apps/developer?id=AAAAPPS",
-  "updated": "2026-11-27T22:34:24.450Z",
+  "updated": "2026-11-28T07:06:15.729Z",
   "apps": [
     {
       "id": "com.deepplan.app",
@@ -220,78 +220,6 @@
       }
     },
     {
-      "id": "com.deeppdfdownloader.app",
-      "url": "https://play.google.com/store/apps/details?id=com.deeppdfdownloader.app",
-      "icon": "https://play-lh.googleusercontent.com/FiHF9rWkWLgR5mPfli8-CUGIqi8xBOj46H0Y_x05yBMughJANhSvYBMsziDLc2jUSymBHlxvRULc51c-hmibrg",
-      "installs": 0,
-      "title": "Deep PDF Downloader & Saver",
-      "summary": "Save any PDF from any website – image pages, flipbooks &amp; online PDF readers",
-      "genre": "Productivity",
-      "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA",
-      "i18n": {
-        "en": {
-          "title": "Deep PDF Downloader & Saver",
-          "summary": "Save any PDF from any website – image pages, flipbooks &amp; online PDF readers",
-          "genre": "Productivity",
-          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
-        },
-        "ar": {
-          "title": "Deep PDF Downloader & Saver",
-          "summary": "احفظ أي ملف PDF من أي موقع ويب – صفحات الصور، والكتب التفاعلية، وقارئات ملفات PDF عبر الإنترنت",
-          "genre": "الإنتاجية",
-          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
-        },
-        "es": {
-          "title": "Deep PDF Downloader & Saver",
-          "summary": "Guarda cualquier PDF de cualquier sitio web: páginas de imágenes, libros interactivos y lectores de PDF en línea.",
-          "genre": "Productividad",
-          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
-        },
-        "pt": {
-          "title": "Deep PDF Downloader & Saver",
-          "summary": "Salve qualquer PDF de qualquer site – páginas de imagens, flipbooks e leitores de PDF online.",
-          "genre": "Produtividade",
-          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
-        },
-        "fr": {
-          "title": "Deep PDF Downloader & Saver",
-          "summary": "Enregistrez n'importe quel PDF depuis n'importe quel site web – pages d'images, flipbooks et lecteurs PDF en ligne",
-          "genre": "Productivité",
-          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
-        },
-        "de": {
-          "title": "Deep PDF Downloader & Saver",
-          "summary": "Speichern Sie beliebige PDFs von beliebigen Websites – Bildseiten, Blätterbücher und Online-PDF-Reader.",
-          "genre": "Effizienz",
-          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
-        },
-        "tr": {
-          "title": "Deep PDF Downloader & Saver",
-          "summary": "Herhangi bir web sitesinden herhangi bir PDF dosyasını kaydedin – resim sayfaları, dijital kitapçıklar ve çevrimiçi PDF okuyucuları",
-          "genre": "Verimlilik",
-          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
-        },
-        "ru": {
-          "title": "Deep PDF Downloader & Saver",
-          "summary": "Сохраняйте любые PDF-файлы с любых веб-сайтов — страницы с изображениями, электронные книги и онлайн-программы для чтения PDF.",
-          "genre": "Работа",
-          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
-        },
-        "id": {
-          "title": "Deep PDF Downloader & Saver",
-          "summary": "Simpan PDF apa pun dari situs web mana pun – halaman gambar, buku digital, dan pembaca PDF online.",
-          "genre": "Produktivitas",
-          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
-        },
-        "hi": {
-          "title": "Deep PDF Downloader & Saver",
-          "summary": "किसी भी वेबसाइट से कोई भी पीडीएफ फाइल सेव करें – इमेज पेज, फ्लिपबुक और ऑनलाइन पीडीएफ रीडर।",
-          "genre": "प्रॉडक्टिविटी",
-          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
-        }
-      }
-    },
-    {
       "id": "com.extranotibar.app",
       "url": "https://play.google.com/store/apps/details?id=com.extranotibar.app",
       "icon": "https://play-lh.googleusercontent.com/QSUU8XFgk_SF5XSxQirhfRJ_-SCShFEzANB1vs6AzkIr7NrgVI5bGdeqwCA31XxulAYV7LOZIAQHWTF-hqG0fA",
@@ -360,6 +288,78 @@
           "summary": "स्टेटस बार के नीचे एक सुव्यवस्थित पट्टी में आपकी सभी सूचनाएं देखें। टैप करें, पढ़ें और जवाब दें।",
           "genre": "मनमुताबिक बनाना",
           "featureGraphic": "https://play-lh.googleusercontent.com/CWW6dZfbojAXW5iIKPn-2Z55Bz3fGlvAOcXLlgY-dcBE7PFbU6q0N4kCLC_jW_f2jnwcDm-KI6PPI3AorgSEv2I"
+        }
+      }
+    },
+    {
+      "id": "com.deeppdfdownloader.app",
+      "url": "https://play.google.com/store/apps/details?id=com.deeppdfdownloader.app",
+      "icon": "https://play-lh.googleusercontent.com/FiHF9rWkWLgR5mPfli8-CUGIqi8xBOj46H0Y_x05yBMughJANhSvYBMsziDLc2jUSymBHlxvRULc51c-hmibrg",
+      "installs": 0,
+      "title": "Deep PDF Downloader & Saver",
+      "summary": "Save any PDF from any website – image pages, flipbooks &amp; online PDF readers",
+      "genre": "Productivity",
+      "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA",
+      "i18n": {
+        "en": {
+          "title": "Deep PDF Downloader & Saver",
+          "summary": "Save any PDF from any website – image pages, flipbooks &amp; online PDF readers",
+          "genre": "Productivity",
+          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
+        },
+        "ar": {
+          "title": "Deep PDF Downloader & Saver",
+          "summary": "احفظ أي ملف PDF من أي موقع ويب – صفحات الصور، والكتب التفاعلية، وقارئات ملفات PDF عبر الإنترنت",
+          "genre": "الإنتاجية",
+          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
+        },
+        "es": {
+          "title": "Deep PDF Downloader & Saver",
+          "summary": "Guarda cualquier PDF de cualquier sitio web: páginas de imágenes, libros interactivos y lectores de PDF en línea.",
+          "genre": "Productividad",
+          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
+        },
+        "pt": {
+          "title": "Deep PDF Downloader & Saver",
+          "summary": "Salve qualquer PDF de qualquer site – páginas de imagens, flipbooks e leitores de PDF online.",
+          "genre": "Produtividade",
+          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
+        },
+        "fr": {
+          "title": "Deep PDF Downloader & Saver",
+          "summary": "Enregistrez n'importe quel PDF depuis n'importe quel site web – pages d'images, flipbooks et lecteurs PDF en ligne",
+          "genre": "Productivité",
+          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
+        },
+        "de": {
+          "title": "Deep PDF Downloader & Saver",
+          "summary": "Speichern Sie beliebige PDFs von beliebigen Websites – Bildseiten, Blätterbücher und Online-PDF-Reader.",
+          "genre": "Effizienz",
+          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
+        },
+        "tr": {
+          "title": "Deep PDF Downloader & Saver",
+          "summary": "Herhangi bir web sitesinden herhangi bir PDF dosyasını kaydedin – resim sayfaları, dijital kitapçıklar ve çevrimiçi PDF okuyucuları",
+          "genre": "Verimlilik",
+          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
+        },
+        "ru": {
+          "title": "Deep PDF Downloader & Saver",
+          "summary": "Сохраняйте любые PDF-файлы с любых веб-сайтов — страницы с изображениями, электронные книги и онлайн-программы для чтения PDF.",
+          "genre": "Работа",
+          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
+        },
+        "id": {
+          "title": "Deep PDF Downloader & Saver",
+          "summary": "Simpan PDF apa pun dari situs web mana pun – halaman gambar, buku digital, dan pembaca PDF online.",
+          "genre": "Produktivitas",
+          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
+        },
+        "hi": {
+          "title": "Deep PDF Downloader & Saver",
+          "summary": "किसी भी वेबसाइट से कोई भी पीडीएफ फाइल सेव करें – इमेज पेज, फ्लिपबुक और ऑनलाइन पीडीएफ रीडर।",
+          "genre": "प्रॉडक्टिविटी",
+          "featureGraphic": "https://play-lh.googleusercontent.com/GyGDYWVKezYRjVHfGVL5AQtfctbt0PrE7zIR6njJSu0p0EQd26XYebUyv9XuukQsjb3-VCUvk7NYBqP6WjHpqA"
         }
       }
     },
